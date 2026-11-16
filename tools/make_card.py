@@ -99,7 +99,12 @@ def make(spec, out):
         text(d, (W / 2, 545), spec.get("status", "النهاية"), font(700, 34), accent, "mm")
         y = 680
     else:
-        y = 330
+        # news card without a score: centre the text block vertically
+        hf0, ff0 = font(900, 72), font(700, 40)
+        block = len(wrap(d, spec["headline"], hf0, W - 140)) * 104 + 30
+        for fact in spec.get("facts", [])[:3]:
+            block += len(wrap(d, fact, ff0, W - 190)) * 60 + 12
+        y = max(300, 270 + (H - 110 - 270 - block) // 2)
 
     hf = font(900, 72 if "home" not in spec else 64)
     for line in wrap(d, spec["headline"], hf, W - 140):
