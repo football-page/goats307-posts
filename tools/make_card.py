@@ -10,6 +10,8 @@ spec.json keys:
   source    e.g. "ESPN، ITV"
   date      e.g. "16.11.2026"
   home, away, home_score, away_score   (optional; omit all four for a non-match news card)
+  status    (optional) label under the score: "النهاية" (default), "الشوط الأول", "مباشر - الدقيقة 67"
+  format    (optional) "story" for a 1080x1920 Instagram Story image; default is a 1080x1350 feed post
 
 Needs: pip install pillow  (Pillow must be built with libraqm for Arabic shaping).
 Output: 1080x1350 JPEG (4:5), ready for Instagram.
@@ -118,6 +120,15 @@ def make(spec, out):
     d.rectangle([0, H - 90, W, H], fill=DARK)
     text(d, (W - 60, H - 45), "المصدر: " + spec["source"], font(400, 32), (170, 175, 190), "rm")
     text(d, (60, H - 45), spec["date"], font(700, 32), (170, 175, 190), "lm")
+    if spec.get("format") == "story":
+        # 9:16 canvas for Instagram Stories, card centred on it
+        story = Image.new("RGB", (W, 1920), bottom)
+        sd = ImageDraw.Draw(story)
+        for y in range(1920):
+            k = y / 1920
+            sd.line([(0, y), (W, y)], fill=tuple(int(top[i] + (bottom[i] - top[i]) * k) for i in range(3)))
+        story.paste(img, (0, (1920 - H) // 2))
+        img = story
     img.save(out, "JPEG", quality=92)
 
 
