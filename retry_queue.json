@@ -1,16 +1,1 @@
-[
-  {
-    "date": "2026-11-17",
-    "item": "Niger v Morocco, AFCON 2027 qualifier (KO 22:00 Hebron / 23:00 Mecca) - live/FT score",
-    "kind": "live",
-    "reason": "23:00 run: still unconfirmed - only stale live snapshots (VAVEL ~20', Goal 37', Al Jazeera kickoff only); no FT report from two sources by 23:47",
-    "added_at": "2026-11-17T23:47+02:00"
-  },
-  {
-    "date": "2026-11-17",
-    "item": "Denmark v Norway, Nations League (KO 21:45 Hebron) - FT result",
-    "kind": "result",
-    "reason": "23:00 run: still unconfirmed - only stale live snapshots (VAVEL ~20', Goal 37', Al Jazeera kickoff only); no FT report from two sources by 23:47",
-    "added_at": "2026-11-17T23:47+02:00"
-  }
-]
+[]

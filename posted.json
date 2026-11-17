@@ -154,5 +154,17 @@
     "type": "story",
     "story": "FT Wales 2-3 Portugal, Nations League A4 MD6 (Fernandes, Neto, Forbs 70'; Brooks, Thomas; Neto sent off) (story only; feed cap reached)",
     "media_id": "17886630039628617"
+  },
+  {
+    "date": "2026-11-18",
+    "type": "story",
+    "story": "FT Denmark 2-3 Norway, Nations League A4 MD6 (Hojlund 11', Hojbjerg 14'; Haaland 37', 90+6' pen, Odegaard 83') (story only)",
+    "media_id": "18192315670414923"
+  },
+  {
+    "date": "2026-11-18",
+    "type": "feed",
+    "story": "FT Niger 0-1 Morocco, AFCON 2027 qualifier (Ouazane 22', assist Brahim Diaz) - Morocco qualify, 12 pts from 4",
+    "media_id": "18106886543013741"
   }
 ]
