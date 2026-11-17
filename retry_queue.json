@@ -1,9 +1,9 @@
 [
   {
     "date": "2026-11-17",
-    "item": "Saudi Arabia vs Uzbekistan friendly (live/result). Agreed: Isanov 19', Al-Buraikan 23', Isanov 35'",
+    "item": "Saudi Arabia vs Uzbekistan friendly, Doha (live/result). HT 1-2 agreed (Al Jazeera + Al Mashhad): Esanov 18', Al-Buraikan 22', Esanov 34'. Al Mashhad reports Lajami red card 50' (single source)",
     "kind": "live",
-    "reason": "Live score conflicts: Annahar 1-2 at 35', Korabia 1-3 at 41'; no second fresh source for current score",
-    "added_at": "2026-11-17T18:35+02:00"
+    "reason": "19:00 run: no two fresh sources for second-half/final score (ESPN, FotMob, Sky pages stale); re-check at 20:00 as full-time result for the last feed slot",
+    "added_at": "2026-11-17T19:15+02:00"
   }
 ]
