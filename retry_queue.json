@@ -1,9 +1,16 @@
 [
   {
     "date": "2026-11-17",
-    "item": "Saudi Arabia vs Uzbekistan friendly, Doha (live/result). HT 1-2 agreed (Al Jazeera + Al Mashhad): Esanov 18', Al-Buraikan 22', Esanov 34'. Al Mashhad reports Lajami red card 50' (single source)",
-    "kind": "live",
-    "reason": "19:00 run: no two fresh sources for second-half/final score (ESPN, FotMob, Sky pages stale); re-check at 20:00 as full-time result for the last feed slot",
-    "added_at": "2026-11-17T19:15+02:00"
+    "item": "Iraq vs Iran, Basra four-nation tournament (kick-off 16:15 UTC). Unverified 1-1 (ysscores only, undated)",
+    "kind": "result",
+    "reason": "20:00 run: no two sources with a final score (FotMob, Al Jazeera pages still pre-match)",
+    "added_at": "2026-11-17T20:25+02:00"
+  },
+  {
+    "date": "2026-11-17",
+    "item": "UAE vs Syria friendly, Al Ain (kick-off 14:10 UTC)",
+    "kind": "result",
+    "reason": "20:00 run: no source with a final score found (Al Jazeera liveblog stale at ~20')",
+    "added_at": "2026-11-17T20:25+02:00"
   }
 ]
