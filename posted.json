@@ -70,5 +70,29 @@
     "type": "story",
     "story": "LIVE Palestine 0-0 Lebanon, Basra tournament friendly, second half",
     "media_id": "18053613305815893"
+  },
+  {
+    "date": "2026-11-17",
+    "type": "story",
+    "story": "FT Palestine 0-0 Lebanon, Basra tournament (story)",
+    "media_id": "18150084388585301"
+  },
+  {
+    "date": "2026-11-17",
+    "type": "story",
+    "story": "FT Malawi 0-0 Egypt, AFCON 2027 qualifier (story)",
+    "media_id": "18107621957635230"
+  },
+  {
+    "date": "2026-11-17",
+    "type": "feed",
+    "story": "FT Palestine 0-0 Lebanon, Basra international tournament",
+    "media_id": "17926389231445366"
+  },
+  {
+    "date": "2026-11-17",
+    "type": "reel",
+    "story": "FT Malawi 0-0 Egypt, AFCON 2027 qualifier (Egypt 2nd, 8 pts)",
+    "media_id": "18117568214117781"
   }
 ]
