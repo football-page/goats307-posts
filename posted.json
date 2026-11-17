@@ -124,5 +124,17 @@
     "type": "story",
     "story": "Prediction story: Wales v Portugal, Nations League GW6, 22:45 Mecca",
     "media_id": "18346663852287149"
+  },
+  {
+    "date": "2026-11-17",
+    "type": "story",
+    "story": "FT Jordan 2-0 Australia friendly, Doha (Tamari, Alwan 90+2; Arzani red 80') (story only)",
+    "media_id": "18004072155035280"
+  },
+  {
+    "date": "2026-11-17",
+    "type": "reel",
+    "story": "FT Saudi Arabia 1-2 Uzbekistan friendly, Doha (Esanov 19', 35'; Al-Buraikan; Lajami red card)",
+    "media_id": "18006486561033753"
   }
 ]
