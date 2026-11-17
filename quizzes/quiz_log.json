@@ -1,3 +1,13 @@
 [
-  {"date": "2026-11-18", "spec": "quizzes/sample_messi_getafe_2007.json", "goal": "Messi solo goal vs Getafe, Copa del Rey semi-final 1st leg, April 2007", "answer": "ليونيل ميسي", "status": "scheduled", "media_id": null, "answer_story_media_id": null}
+  {
+    "date": "2026-11-17",
+    "spec": "quizzes/sample_messi_getafe_2007.json",
+    "video": "posts/2026-11-17/quiz_01.mp4",
+    "goal": "Messi solo goal vs Getafe, Copa del Rey semi-final 1st leg, 18 April 2007 (Barcelona won 5-2)",
+    "answer": "ليونيل ميسي",
+    "answer_sources": "FC Barcelona official site, Sports Illustrated, Sky Sports",
+    "status": "published",
+    "media_id": "18337322356277969",
+    "answer_story_media_id": null
+  }
 ]
