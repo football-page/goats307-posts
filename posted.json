@@ -227,5 +227,17 @@
     "type": "feed",
     "story": "FT Uruguay 5-0 Dominican Republic friendly, Maldonado 17 Nov (scorers incl. Aguirre, De la Cruz, Valverde as sub, Damiani)",
     "media_id": "18125329700052509"
+  },
+  {
+    "date": "2026-11-18",
+    "type": "story",
+    "story": "Story: FT Congo 0-1 Comoros, AFCON 2027 qualifier 17 Nov (Hamada ~half hour); Comoros 2nd 7 pts, Cameroon 10",
+    "media_id": "17905019847372212"
+  },
+  {
+    "date": "2026-11-18",
+    "type": "feed",
+    "story": "FT Libya 1-1 Tunisia, AFCON 2027 qualifier 17 Nov, Tripoli (Ben Slimane 3'; Libya pen 45+5 amid Tunisian protest); Libya 5 pts, Tunisia bottom 3 pts",
+    "media_id": "17940851721124770"
   }
 ]
