@@ -179,5 +179,17 @@
     "type": "story",
     "story": "Quiz #1 answer story: scorer Lionel Messi, Barcelona 5-2 Getafe, Copa del Rey SF 1st leg, 18 Apr 2007",
     "media_id": "18435318037151882"
+  },
+  {
+    "date": "2026-11-18",
+    "type": "story",
+    "story": "Stat story: Emiliano 'Dibu' Martinez 47 clean sheets for Argentina, equals Sergio Romero record (vs Costa Rica 17 Nov)",
+    "media_id": "17945279097097796"
+  },
+  {
+    "date": "2026-11-18",
+    "type": "feed",
+    "story": "FT Argentina 7-0 Costa Rica friendly, Cordoba 17 Nov (Paz 8',38'; Alvarez 35',43'; Mastantuono 48',88'; Mac Allister 78')",
+    "media_id": "18126134725728936"
   }
 ]
