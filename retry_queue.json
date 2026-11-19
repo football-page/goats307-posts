@@ -1,9 +1,9 @@
 [
   {
     "date": "2026-11-19",
-    "item": "Live: Saudi Arabia U17 v Uruguay U17, U-17 World Cup (KO 17:00 Mecca)",
+    "item": "Saudi Arabia U17 v Uruguay U17, U-17 World Cup (KO 17:00 Mecca) - post FT result",
     "kind": "live",
-    "reason": "Only ESPN readable (0-0, minute unclear, no update time); FIFA/SofaScore unreadable",
+    "reason": "17:00 run: 1-1 at HT per 365Scores + btolat goal clips (KSA scored first, Uruguay equalised); no source updated in last 10 min, scorers/minutes unknown",
     "added_at": "2026-11-19T16:20+02:00"
   },
   {
@@ -12,5 +12,12 @@
     "kind": "news",
     "reason": "Single source (Anfield Index); second source not found",
     "added_at": "2026-11-19T16:20+02:00"
+  },
+  {
+    "date": "2026-11-19",
+    "item": "Arda Guler Real Madrid contract extension",
+    "kind": "news",
+    "reason": "Sources disagree on end year (2031 per AS-based reports vs 2032 in other headlines); no official club page read",
+    "added_at": "2026-11-19T17:35+02:00"
   }
 ]
