@@ -1,401 +1,407 @@
 [
-  {
-    "date": "2026-11-16",
-    "story": "Japan 3-2 Brazil friendly",
-    "media_id": "17908131105352551",
-    "type": "feed"
-  },
-  {
-    "date": "2026-11-16",
-    "story": "France 2-1 Turkiye Nations League",
-    "media_id": "18202606705382204",
-    "type": "feed"
-  },
-  {
-    "date": "2026-11-16",
-    "story": "Spain 2-3 England Nations League, Spain 43-match unbeaten run ended",
-    "media_id": "17919034455500107",
-    "type": "feed"
-  },
-  {
-    "date": "2026-11-16",
-    "story": "Germany 5-0 Netherlands Nations League",
-    "media_id": "17921439432523617",
-    "type": "feed"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "reel",
-    "story": "International break round-up Reel: Germany 5-0 Netherlands, Spain 2-3 England, Japan 3-2 Brazil, France 2-1 Turkiye",
-    "media_id": "18142297180527574"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "feed",
-    "story": "Pochettino officially appointed Man Utd head coach, starts 18 Nov",
-    "media_id": "18191845564430735"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "story",
-    "story": "Pochettino officially appointed Man Utd head coach (story)",
-    "media_id": "17912804277567416"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "feed",
-    "story": "Malaysia 2-1 Yemen friendly (Richard Chin brace, Yemen goal 77')",
-    "media_id": "18077882891480302"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "feed",
-    "story": "UEFA backs Philippe Diallo to challenge Infantino for FIFA presidency",
-    "media_id": "17965477356253048"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "feed",
-    "story": "Singapore 0-7 Brazil friendly (Vinicius hat-trick in first 21 min, Endrick and Estevao also scored)",
-    "media_id": "17957122581039343"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "feed",
-    "story": "Thomas Frank officially appointed Crystal Palace manager, contract to June 2029",
-    "media_id": "18126933103924408"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "story",
-    "story": "LIVE Palestine 0-0 Lebanon, Basra tournament friendly, second half",
-    "media_id": "18053613305815893"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "story",
-    "story": "FT Palestine 0-0 Lebanon, Basra tournament (story)",
-    "media_id": "18150084388585301"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "story",
-    "story": "FT Malawi 0-0 Egypt, AFCON 2027 qualifier (story)",
-    "media_id": "18107621957635230"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "feed",
-    "story": "FT Palestine 0-0 Lebanon, Basra international tournament",
-    "media_id": "17926389231445366"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "reel",
-    "story": "FT Malawi 0-0 Egypt, AFCON 2027 qualifier (Egypt 2nd, 8 pts)",
-    "media_id": "18117568214117781"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "reel",
-    "story": "Goal quiz #1: who scored this goal? (Messi vs Getafe, Copa del Rey SF 2007) - answer Story due 2026-11-18",
-    "media_id": "18337322356277969"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "story",
-    "story": "FT Qatar 0-1 South Korea friendly (Oh Se-hun 43') (story)",
-    "media_id": "18380813608240613"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "story",
-    "story": "Tonight's fixtures story: Wales v Portugal 22:45, Denmark v Norway 22:45, Niger v Morocco 23:00 (Mecca)",
-    "media_id": "17966498613247025"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "story",
-    "story": "Prediction story: Niger v Morocco, AFCON 2027 qualifier, 23:00 Mecca",
-    "media_id": "18119517053588524"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "story",
-    "story": "Prediction story: Wales v Portugal, Nations League GW6, 22:45 Mecca",
-    "media_id": "18346663852287149"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "story",
-    "story": "FT Jordan 2-0 Australia friendly, Doha (Tamari, Alwan 90+2; Arzani red 80') (story only)",
-    "media_id": "18004072155035280"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "reel",
-    "story": "FT Saudi Arabia 1-2 Uzbekistan friendly, Doha (Esanov 19', 35'; Al-Buraikan; Lajami red card)",
-    "media_id": "18006486561033753"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "story",
-    "story": "FT UAE 4-2 Syria friendly, Al Ain (story only; feed cap reached)",
-    "media_id": "18180867988448482"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "story",
-    "story": "FT Iraq 1-1 Iran, Basra four-nation tournament (Hussein Ali 1'; Iran win title) (story only)",
-    "media_id": "17890705599486353"
-  },
-  {
-    "date": "2026-11-17",
-    "type": "story",
-    "story": "FT Wales 2-3 Portugal, Nations League A4 MD6 (Fernandes, Neto, Forbs 70'; Brooks, Thomas; Neto sent off) (story only; feed cap reached)",
-    "media_id": "17886630039628617"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "story",
-    "story": "FT Denmark 2-3 Norway, Nations League A4 MD6 (Hojlund 11', Hojbjerg 14'; Haaland 37', 90+6' pen, Odegaard 83') (story only)",
-    "media_id": "18192315670414923"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "feed",
-    "story": "FT Niger 0-1 Morocco, AFCON 2027 qualifier (Ouazane 22', assist Brahim Diaz) - Morocco qualify, 12 pts from 4",
-    "media_id": "18106886543013741"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "reel",
-    "story": "Nightly round-up reel 'أبرز نتائج الليلة' (Niger 0-1 Morocco, Wales 2-3 Portugal, Denmark 2-3 Norway, Jordan 2-0 Australia, Saudi 1-2 Uzbekistan) - published silently by Claude at 01:00 fallback",
-    "media_id": "18215222920365726",
-    "video_path": "posts/2026-11-18/reel_roundup_1711.mp4"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "story",
-    "story": "Quiz #1 answer story: scorer Lionel Messi, Barcelona 5-2 Getafe, Copa del Rey SF 1st leg, 18 Apr 2007",
-    "media_id": "18435318037151882"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "story",
-    "story": "Stat story: Emiliano 'Dibu' Martinez 47 clean sheets for Argentina, equals Sergio Romero record (vs Costa Rica 17 Nov)",
-    "media_id": "17945279097097796"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "feed",
-    "story": "FT Argentina 7-0 Costa Rica friendly, Cordoba 17 Nov (Paz 8',38'; Alvarez 35',43'; Mastantuono 48',88'; Mac Allister 78')",
-    "media_id": "18126134725728936"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "story",
-    "story": "Story: Cubarsi hip flexor (iliopsoas) strain from Spain v England, doubt for Villarreal (Barca statement)",
-    "media_id": "18161602060508315"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "feed",
-    "story": "Globe Soccer Awards 2026 nominees: Messi, Mbappe, Yamal, Kane for Best Player; Ronaldo for Best Middle East Player; Hakimi Best Defender; ceremony 28 Dec Dubai; fan vote until 30 Nov",
-    "media_id": "18392980351237064"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "story",
-    "story": "Story: 9 teams qualified for AFCON 2027 after matchday 4 (hosts Kenya, Tanzania, Uganda + Morocco, Senegal, Benin, Burkina Faso, Cameroon, Mali)",
-    "media_id": "17990009220082504"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "reel",
-    "story": "FT Togo 3-0 Algeria, AFCON 2027 qualifier 17 Nov (Klidje double); Algeria still top on 7 pts (match reel, posted 15:10 Hebron)",
-    "media_id": "17905412472605840"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "story",
-    "story": "Story: La Liga table snapshot after 12 rounds (Barcelona 33, Real Madrid 30, Atletico 28) before return from international break",
-    "media_id": "18037778027889656"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "feed",
-    "story": "FT Uruguay 5-0 Dominican Republic friendly, Maldonado 17 Nov (scorers incl. Aguirre, De la Cruz, Valverde as sub, Damiani)",
-    "media_id": "18125329700052509"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "story",
-    "story": "Story: FT Congo 0-1 Comoros, AFCON 2027 qualifier 17 Nov (Hamada ~half hour); Comoros 2nd 7 pts, Cameroon 10",
-    "media_id": "17905019847372212"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "feed",
-    "story": "FT Libya 1-1 Tunisia, AFCON 2027 qualifier 17 Nov, Tripoli (Ben Slimane 3'; Libya pen 45+5 amid Tunisian protest); Libya 5 pts, Tunisia bottom 3 pts",
-    "media_id": "17940851721124770"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "story",
-    "story": "Story: tonight's Copa del Rey fixtures (Utebo-Sabadell 21:00, Alcoyano-Mallorca 22:00, Badajoz-Tenerife 22:00, Deportiva Minera-Cartagena 22:30 Mecca)",
-    "media_id": "18650155435060378"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "feed",
-    "story": "FIFA ranking Nov 2026: Morocco 5th (up from 7th, 1809.37 pts), highest ever since 1993; top 4 Spain, Argentina, France, England",
-    "media_id": "18206773102331054"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "feed",
-    "story": "Official: Arda Guler extends Real Madrid contract to 30 June 2032 (joined July 2023 from Fenerbahce, 126 apps)",
-    "media_id": "18129757114920139"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "story",
-    "story": "Story: Barcelona v Villarreal preview, La Liga MD13, Sun 22 Nov 16:00 Mecca, Camp Nou + prediction question",
-    "media_id": "18074714438750045"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "reel",
-    "story": "Creative Reel (player stats): Raphinha vs Mbappe La Liga 2026-27 to 18.11.2026 - Raphinha 15 goals/11 apps (3 pens), Mbappe 13/12; top 5 scorers (Yamal 10, Zabiri 9, Budimir 8)",
-    "media_id": "18099661577543888",
-    "creative": "player_stats",
-    "video_path": "posts/2026-11-18/reel_stats_raphinha_mbappe.mp4"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "story",
-    "story": "Story: Saudi Pro League table snapshot to 18.11.2026 (Al Hilal 30/11, Al Qadsiah 28/12, Al Nassr 28/11, Al Ittihad 24, Neom 22, Al Ahli 21) - Goal, Sports Mole",
-    "media_id": "17974639119155115"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "story",
-    "story": "Story: FT Utebo 0-3 Sabadell, Copa del Rey 18 Nov (Obolo, Ribeiro, Rahmani, all first half) - ESPN, El Nacional",
-    "media_id": "18201272974378237"
-  },
-  {
-    "date": "2026-11-18",
-    "type": "story",
-    "story": "Story: Frenkie de Jong fit for Barcelona v Villarreal (minor muscle strain with Netherlands, not serious); Cubarsi still a doubt - Flashscore/AFP, AfricaSoccer",
-    "media_id": "18022232714959113"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "story",
-    "story": "Story: FT Alcoyano 1-3 Mallorca aet, Copa del Rey 18 Nov (1-1 after 90: Abdon Prats 18', Guille Andres; ET: Buksa, Adrian Fuentes; Loren goal disallowed offside) - VAVEL, Ultima Hora (retry queue item resolved)",
-    "media_id": "18093705443693903"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "story",
-    "story": "Story: today's fixtures U-17 World Cup (Saudi v Uruguay 17:00, Qatar v Panama 18:30, Egypt v Greece 19:00 Mecca) - Btolat, Cairo24, Al-Ain",
-    "media_id": "18135576280786352"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "story",
-    "story": "Story: Brasileirao R35 results 18 Nov (Flamengo 2-1 Athletico-PR, Cruzeiro 2-1 Palmeiras, Corinthians 4-0 Botafogo) - LiveSoccerTV, Piaui Hoje",
-    "media_id": "18129068390296336"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "feed",
-    "story": "FT Badajoz 2-5 Tenerife, Copa del Rey 1st round 18 Nov (Ranos 2, Juanjo Sanchez, Chapela, Victor Moreno; Beitia, Barba) - RTVC, Football Espana",
-    "media_id": "18107879045315800"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "feed",
-    "story": "FIFA receives 3 presidential candidatures (Infantino, Diallo FFF president, Tashima JFA president); election 77th Congress Rabat 18 Mar 2027; under electoral committee review - FIFA, Al Jazeera/Reuters",
-    "media_id": "18118199015011633"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "story",
-    "story": "Story: Morocco U17 5-1 Tunisia (in Sousse), UNAF U17 MD3 16 Nov (Akram Jadid hat-trick 89', 90+2' pen, 90+4'; Dabdoubi 24', Ait Hammou); Algeria & Egypt top on 6 pts - Hespress, Morocco World News",
-    "media_id": "17969716953225462"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "story",
-    "story": "Story: today's match Barcelona women v Servette, UWCL league phase, Thu 19 Nov 23:00 Mecca (21:00 CET) - FC Barcelona, Futboltotal",
-    "media_id": "17959357032320226"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "feed",
-    "story": "Preview: Al Ahli v Al Nassr, postponed Saudi Pro League MD9, Fri 20 Nov 20:30 Mecca, Alinma Stadium Jeddah; Al Nassr 3rd 28 pts, Al Ahli 6th 21 - Africa Soccer, World Soccer Talk",
-    "media_id": "17866810809695980"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "feed",
-    "story": "Kounde partially back in Barcelona group training Thu 19 Nov (first since ankle sprain v Betis); doubt for Villarreal Sun 22 Nov at Camp Nou; Cubarsi still a doubt - Barca Universal/Yahoo, Africa Soccer",
-    "media_id": "18044387420836503"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "story",
-    "story": "Story: Lookman (Atletico) high-grade knee sprain, doubt for Barcelona clash - Reuters/The Star, Goal/LiveScore",
-    "media_id": "18200406232393242"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "feed",
-    "story": "Nations League QF draw Fri 20 Nov 12:00 CET (14:00 Mecca); winners England, France, Germany, Portugal; runners-up Belgium, Netherlands, Norway, Spain; QFs 25-27 & 28-30 Mar 2027 - UEFA, Flashscore, Sports Mole",
-    "media_id": "18091229126697631"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "story",
-    "story": "Story: Strasbourg officially appoint Vitor Matos (from Swansea) as head coach, replacing Hugo Oliveira (mutual termination) - AFP/FMT, GFFN",
-    "media_id": "18133732606892747"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "feed",
-    "story": "FT Saudi Arabia U17 2-3 Uruguay U17, U-17 World Cup Group D, Doha (Bouchakra pens 38', 58'; Barrero 43'; Saudi own goal 68'; Facundo Rodriguez late winner) - Goal, Al Jazeera, El Observador, Montevideo Portal",
-    "media_id": "18172278367472224"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "story",
-    "story": "Story: Liverpool - Van Dijk, Gravenberch, Szoboszlai back in training before Man Utd (Sun 22 Nov, Anfield) - Anfield Index, LiveScore/Empire of the Kop (retry queue item resolved; Isak dropped, single source)",
-    "media_id": "18108566708329549"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "feed",
-    "story": "Pochettino first interview as Man Utd head coach (club media): take pressure off players, 'players need to express their talent', build winning culture; Utd in relegation zone after worst start since 1984; first game at Anfield v Liverpool Sun - AFP (Yahoo/Citizen), Football365",
-    "media_id": "17923651173458542"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "story",
-    "story": "Story: FT Egypt U17 1-2 Greece U17, U-17 World Cup Group 1 MD1 (Soflatzis 54', Karangelis 62'; Zyad Saoudi 71'; Daniel Tamer red 23') - Asharq, Yallakora (retry queue item resolved)",
-    "media_id": "18002147589047039"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "story",
-    "story": "Story: FT Qatar U17 2-0 Panama U17, U-17 World Cup Group 1 MD1 (Taha Nassir pen 90+1, Abdoulaye Ndiaye 90+5) - Asharq, RPC TV (retry queue item resolved)",
-    "media_id": "18121220294085631"
-  },
-  {
-    "date": "2026-11-19",
-    "type": "reel",
-    "story": "Creative Reel (quiz #2): who scored this goal? Saeed Al-Owairan solo goal vs Belgium, World Cup 1994 group F, 5th minute (Saudi 1-0)",
-    "media_id": "18083231414723777"
-  }
+ {
+  "date": "2026-11-16",
+  "story": "Japan 3-2 Brazil friendly",
+  "media_id": "17908131105352551",
+  "type": "feed"
+ },
+ {
+  "date": "2026-11-16",
+  "story": "France 2-1 Turkiye Nations League",
+  "media_id": "18202606705382204",
+  "type": "feed"
+ },
+ {
+  "date": "2026-11-16",
+  "story": "Spain 2-3 England Nations League, Spain 43-match unbeaten run ended",
+  "media_id": "17919034455500107",
+  "type": "feed"
+ },
+ {
+  "date": "2026-11-16",
+  "story": "Germany 5-0 Netherlands Nations League",
+  "media_id": "17921439432523617",
+  "type": "feed"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "reel",
+  "story": "International break round-up Reel: Germany 5-0 Netherlands, Spain 2-3 England, Japan 3-2 Brazil, France 2-1 Turkiye",
+  "media_id": "18142297180527574"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "feed",
+  "story": "Pochettino officially appointed Man Utd head coach, starts 18 Nov",
+  "media_id": "18191845564430735"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "story",
+  "story": "Pochettino officially appointed Man Utd head coach (story)",
+  "media_id": "17912804277567416"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "feed",
+  "story": "Malaysia 2-1 Yemen friendly (Richard Chin brace, Yemen goal 77')",
+  "media_id": "18077882891480302"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "feed",
+  "story": "UEFA backs Philippe Diallo to challenge Infantino for FIFA presidency",
+  "media_id": "17965477356253048"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "feed",
+  "story": "Singapore 0-7 Brazil friendly (Vinicius hat-trick in first 21 min, Endrick and Estevao also scored)",
+  "media_id": "17957122581039343"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "feed",
+  "story": "Thomas Frank officially appointed Crystal Palace manager, contract to June 2029",
+  "media_id": "18126933103924408"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "story",
+  "story": "LIVE Palestine 0-0 Lebanon, Basra tournament friendly, second half",
+  "media_id": "18053613305815893"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "story",
+  "story": "FT Palestine 0-0 Lebanon, Basra tournament (story)",
+  "media_id": "18150084388585301"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "story",
+  "story": "FT Malawi 0-0 Egypt, AFCON 2027 qualifier (story)",
+  "media_id": "18107621957635230"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "feed",
+  "story": "FT Palestine 0-0 Lebanon, Basra international tournament",
+  "media_id": "17926389231445366"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "reel",
+  "story": "FT Malawi 0-0 Egypt, AFCON 2027 qualifier (Egypt 2nd, 8 pts)",
+  "media_id": "18117568214117781"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "reel",
+  "story": "Goal quiz #1: who scored this goal? (Messi vs Getafe, Copa del Rey SF 2007) - answer Story due 2026-11-18",
+  "media_id": "18337322356277969"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "story",
+  "story": "FT Qatar 0-1 South Korea friendly (Oh Se-hun 43') (story)",
+  "media_id": "18380813608240613"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "story",
+  "story": "Tonight's fixtures story: Wales v Portugal 22:45, Denmark v Norway 22:45, Niger v Morocco 23:00 (Mecca)",
+  "media_id": "17966498613247025"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "story",
+  "story": "Prediction story: Niger v Morocco, AFCON 2027 qualifier, 23:00 Mecca",
+  "media_id": "18119517053588524"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "story",
+  "story": "Prediction story: Wales v Portugal, Nations League GW6, 22:45 Mecca",
+  "media_id": "18346663852287149"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "story",
+  "story": "FT Jordan 2-0 Australia friendly, Doha (Tamari, Alwan 90+2; Arzani red 80') (story only)",
+  "media_id": "18004072155035280"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "reel",
+  "story": "FT Saudi Arabia 1-2 Uzbekistan friendly, Doha (Esanov 19', 35'; Al-Buraikan; Lajami red card)",
+  "media_id": "18006486561033753"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "story",
+  "story": "FT UAE 4-2 Syria friendly, Al Ain (story only; feed cap reached)",
+  "media_id": "18180867988448482"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "story",
+  "story": "FT Iraq 1-1 Iran, Basra four-nation tournament (Hussein Ali 1'; Iran win title) (story only)",
+  "media_id": "17890705599486353"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "story",
+  "story": "FT Wales 2-3 Portugal, Nations League A4 MD6 (Fernandes, Neto, Forbs 70'; Brooks, Thomas; Neto sent off) (story only; feed cap reached)",
+  "media_id": "17886630039628617"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "story",
+  "story": "FT Denmark 2-3 Norway, Nations League A4 MD6 (Hojlund 11', Hojbjerg 14'; Haaland 37', 90+6' pen, Odegaard 83') (story only)",
+  "media_id": "18192315670414923"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "feed",
+  "story": "FT Niger 0-1 Morocco, AFCON 2027 qualifier (Ouazane 22', assist Brahim Diaz) - Morocco qualify, 12 pts from 4",
+  "media_id": "18106886543013741"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "reel",
+  "story": "Nightly round-up reel 'أبرز نتائج الليلة' (Niger 0-1 Morocco, Wales 2-3 Portugal, Denmark 2-3 Norway, Jordan 2-0 Australia, Saudi 1-2 Uzbekistan) - published silently by Claude at 01:00 fallback",
+  "media_id": "18215222920365726",
+  "video_path": "posts/2026-11-18/reel_roundup_1711.mp4"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "story",
+  "story": "Quiz #1 answer story: scorer Lionel Messi, Barcelona 5-2 Getafe, Copa del Rey SF 1st leg, 18 Apr 2007",
+  "media_id": "18435318037151882"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "story",
+  "story": "Stat story: Emiliano 'Dibu' Martinez 47 clean sheets for Argentina, equals Sergio Romero record (vs Costa Rica 17 Nov)",
+  "media_id": "17945279097097796"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "feed",
+  "story": "FT Argentina 7-0 Costa Rica friendly, Cordoba 17 Nov (Paz 8',38'; Alvarez 35',43'; Mastantuono 48',88'; Mac Allister 78')",
+  "media_id": "18126134725728936"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "story",
+  "story": "Story: Cubarsi hip flexor (iliopsoas) strain from Spain v England, doubt for Villarreal (Barca statement)",
+  "media_id": "18161602060508315"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "feed",
+  "story": "Globe Soccer Awards 2026 nominees: Messi, Mbappe, Yamal, Kane for Best Player; Ronaldo for Best Middle East Player; Hakimi Best Defender; ceremony 28 Dec Dubai; fan vote until 30 Nov",
+  "media_id": "18392980351237064"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "story",
+  "story": "Story: 9 teams qualified for AFCON 2027 after matchday 4 (hosts Kenya, Tanzania, Uganda + Morocco, Senegal, Benin, Burkina Faso, Cameroon, Mali)",
+  "media_id": "17990009220082504"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "reel",
+  "story": "FT Togo 3-0 Algeria, AFCON 2027 qualifier 17 Nov (Klidje double); Algeria still top on 7 pts (match reel, posted 15:10 Hebron)",
+  "media_id": "17905412472605840"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "story",
+  "story": "Story: La Liga table snapshot after 12 rounds (Barcelona 33, Real Madrid 30, Atletico 28) before return from international break",
+  "media_id": "18037778027889656"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "feed",
+  "story": "FT Uruguay 5-0 Dominican Republic friendly, Maldonado 17 Nov (scorers incl. Aguirre, De la Cruz, Valverde as sub, Damiani)",
+  "media_id": "18125329700052509"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "story",
+  "story": "Story: FT Congo 0-1 Comoros, AFCON 2027 qualifier 17 Nov (Hamada ~half hour); Comoros 2nd 7 pts, Cameroon 10",
+  "media_id": "17905019847372212"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "feed",
+  "story": "FT Libya 1-1 Tunisia, AFCON 2027 qualifier 17 Nov, Tripoli (Ben Slimane 3'; Libya pen 45+5 amid Tunisian protest); Libya 5 pts, Tunisia bottom 3 pts",
+  "media_id": "17940851721124770"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "story",
+  "story": "Story: tonight's Copa del Rey fixtures (Utebo-Sabadell 21:00, Alcoyano-Mallorca 22:00, Badajoz-Tenerife 22:00, Deportiva Minera-Cartagena 22:30 Mecca)",
+  "media_id": "18650155435060378"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "feed",
+  "story": "FIFA ranking Nov 2026: Morocco 5th (up from 7th, 1809.37 pts), highest ever since 1993; top 4 Spain, Argentina, France, England",
+  "media_id": "18206773102331054"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "feed",
+  "story": "Official: Arda Guler extends Real Madrid contract to 30 June 2032 (joined July 2023 from Fenerbahce, 126 apps)",
+  "media_id": "18129757114920139"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "story",
+  "story": "Story: Barcelona v Villarreal preview, La Liga MD13, Sun 22 Nov 16:00 Mecca, Camp Nou + prediction question",
+  "media_id": "18074714438750045"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "reel",
+  "story": "Creative Reel (player stats): Raphinha vs Mbappe La Liga 2026-27 to 18.11.2026 - Raphinha 15 goals/11 apps (3 pens), Mbappe 13/12; top 5 scorers (Yamal 10, Zabiri 9, Budimir 8)",
+  "media_id": "18099661577543888",
+  "creative": "player_stats",
+  "video_path": "posts/2026-11-18/reel_stats_raphinha_mbappe.mp4"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "story",
+  "story": "Story: Saudi Pro League table snapshot to 18.11.2026 (Al Hilal 30/11, Al Qadsiah 28/12, Al Nassr 28/11, Al Ittihad 24, Neom 22, Al Ahli 21) - Goal, Sports Mole",
+  "media_id": "17974639119155115"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "story",
+  "story": "Story: FT Utebo 0-3 Sabadell, Copa del Rey 18 Nov (Obolo, Ribeiro, Rahmani, all first half) - ESPN, El Nacional",
+  "media_id": "18201272974378237"
+ },
+ {
+  "date": "2026-11-18",
+  "type": "story",
+  "story": "Story: Frenkie de Jong fit for Barcelona v Villarreal (minor muscle strain with Netherlands, not serious); Cubarsi still a doubt - Flashscore/AFP, AfricaSoccer",
+  "media_id": "18022232714959113"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "story",
+  "story": "Story: FT Alcoyano 1-3 Mallorca aet, Copa del Rey 18 Nov (1-1 after 90: Abdon Prats 18', Guille Andres; ET: Buksa, Adrian Fuentes; Loren goal disallowed offside) - VAVEL, Ultima Hora (retry queue item resolved)",
+  "media_id": "18093705443693903"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "story",
+  "story": "Story: today's fixtures U-17 World Cup (Saudi v Uruguay 17:00, Qatar v Panama 18:30, Egypt v Greece 19:00 Mecca) - Btolat, Cairo24, Al-Ain",
+  "media_id": "18135576280786352"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "story",
+  "story": "Story: Brasileirao R35 results 18 Nov (Flamengo 2-1 Athletico-PR, Cruzeiro 2-1 Palmeiras, Corinthians 4-0 Botafogo) - LiveSoccerTV, Piaui Hoje",
+  "media_id": "18129068390296336"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "feed",
+  "story": "FT Badajoz 2-5 Tenerife, Copa del Rey 1st round 18 Nov (Ranos 2, Juanjo Sanchez, Chapela, Victor Moreno; Beitia, Barba) - RTVC, Football Espana",
+  "media_id": "18107879045315800"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "feed",
+  "story": "FIFA receives 3 presidential candidatures (Infantino, Diallo FFF president, Tashima JFA president); election 77th Congress Rabat 18 Mar 2027; under electoral committee review - FIFA, Al Jazeera/Reuters",
+  "media_id": "18118199015011633"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "story",
+  "story": "Story: Morocco U17 5-1 Tunisia (in Sousse), UNAF U17 MD3 16 Nov (Akram Jadid hat-trick 89', 90+2' pen, 90+4'; Dabdoubi 24', Ait Hammou); Algeria & Egypt top on 6 pts - Hespress, Morocco World News",
+  "media_id": "17969716953225462"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "story",
+  "story": "Story: today's match Barcelona women v Servette, UWCL league phase, Thu 19 Nov 23:00 Mecca (21:00 CET) - FC Barcelona, Futboltotal",
+  "media_id": "17959357032320226"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "feed",
+  "story": "Preview: Al Ahli v Al Nassr, postponed Saudi Pro League MD9, Fri 20 Nov 20:30 Mecca, Alinma Stadium Jeddah; Al Nassr 3rd 28 pts, Al Ahli 6th 21 - Africa Soccer, World Soccer Talk",
+  "media_id": "17866810809695980"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "feed",
+  "story": "Kounde partially back in Barcelona group training Thu 19 Nov (first since ankle sprain v Betis); doubt for Villarreal Sun 22 Nov at Camp Nou; Cubarsi still a doubt - Barca Universal/Yahoo, Africa Soccer",
+  "media_id": "18044387420836503"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "story",
+  "story": "Story: Lookman (Atletico) high-grade knee sprain, doubt for Barcelona clash - Reuters/The Star, Goal/LiveScore",
+  "media_id": "18200406232393242"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "feed",
+  "story": "Nations League QF draw Fri 20 Nov 12:00 CET (14:00 Mecca); winners England, France, Germany, Portugal; runners-up Belgium, Netherlands, Norway, Spain; QFs 25-27 & 28-30 Mar 2027 - UEFA, Flashscore, Sports Mole",
+  "media_id": "18091229126697631"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "story",
+  "story": "Story: Strasbourg officially appoint Vitor Matos (from Swansea) as head coach, replacing Hugo Oliveira (mutual termination) - AFP/FMT, GFFN",
+  "media_id": "18133732606892747"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "feed",
+  "story": "FT Saudi Arabia U17 2-3 Uruguay U17, U-17 World Cup Group D, Doha (Bouchakra pens 38', 58'; Barrero 43'; Saudi own goal 68'; Facundo Rodriguez late winner) - Goal, Al Jazeera, El Observador, Montevideo Portal",
+  "media_id": "18172278367472224"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "story",
+  "story": "Story: Liverpool - Van Dijk, Gravenberch, Szoboszlai back in training before Man Utd (Sun 22 Nov, Anfield) - Anfield Index, LiveScore/Empire of the Kop (retry queue item resolved; Isak dropped, single source)",
+  "media_id": "18108566708329549"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "feed",
+  "story": "Pochettino first interview as Man Utd head coach (club media): take pressure off players, 'players need to express their talent', build winning culture; Utd in relegation zone after worst start since 1984; first game at Anfield v Liverpool Sun - AFP (Yahoo/Citizen), Football365",
+  "media_id": "17923651173458542"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "story",
+  "story": "Story: FT Egypt U17 1-2 Greece U17, U-17 World Cup Group 1 MD1 (Soflatzis 54', Karangelis 62'; Zyad Saoudi 71'; Daniel Tamer red 23') - Asharq, Yallakora (retry queue item resolved)",
+  "media_id": "18002147589047039"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "story",
+  "story": "Story: FT Qatar U17 2-0 Panama U17, U-17 World Cup Group 1 MD1 (Taha Nassir pen 90+1, Abdoulaye Ndiaye 90+5) - Asharq, RPC TV (retry queue item resolved)",
+  "media_id": "18121220294085631"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "reel",
+  "story": "Creative Reel (quiz #2): who scored this goal? Saeed Al-Owairan solo goal vs Belgium, World Cup 1994 group F, 5th minute (Saudi 1-0)",
+  "media_id": "18083231414723777"
+ },
+ {
+  "date": "2026-11-19",
+  "type": "story",
+  "story": "Story: Egypt Cup R16 19 Nov - Al Masry 3-0 Petrol Asyut (Tamin, Al-Zayani, 3rd goal stoppage time); Al Mokawloon 1-1 Al Qanah (Ammar 19', Abu Sena), Mokawloon through on penalties aet - Yallakora, Shorouk, Cairo24, Vetogate, Btolat",
+  "media_id": "18081948053746258"
+ }
 ]
