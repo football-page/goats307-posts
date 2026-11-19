@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-11-19",
-    "item": "Saudi Arabia U17 v Uruguay U17, U-17 World Cup (KO 17:00 Mecca) - post FT result",
-    "kind": "live",
-    "reason": "17:00 run: 1-1 at HT per 365Scores + btolat goal clips (KSA scored first, Uruguay equalised); no source updated in last 10 min, scorers/minutes unknown",
-    "added_at": "2026-11-19T16:20+02:00"
-  },
-  {
-    "date": "2026-11-19",
     "item": "Liverpool: Van Dijk, Gravenberch, Szoboszlai, Isak back in training before Man Utd (Sun 22 Nov)",
     "kind": "news",
     "reason": "Single source (Anfield Index); second source not found",
@@ -15,9 +8,16 @@
   },
   {
     "date": "2026-11-19",
-    "item": "Arda Guler Real Madrid contract extension",
-    "kind": "news",
-    "reason": "Sources disagree on end year (2031 per AS-based reports vs 2032 in other headlines); no official club page read",
-    "added_at": "2026-11-19T17:35+02:00"
+    "item": "Qatar U17 v Panama U17, U-17 World Cup (KO 18:30 Mecca) - live/FT story",
+    "kind": "live",
+    "reason": "18:00 run: in progress, no live source with score updated in last 10 min found",
+    "added_at": "2026-11-19T18:25+02:00"
+  },
+  {
+    "date": "2026-11-19",
+    "item": "Egypt U17 v Greece U17, U-17 World Cup (KO 19:00 Mecca) - live/FT story",
+    "kind": "live",
+    "reason": "18:00 run: in progress, no live source with score updated in last 10 min found",
+    "added_at": "2026-11-19T18:25+02:00"
   }
 ]
