@@ -453,5 +453,17 @@
     "type": "story",
     "story": "Story: tonight's fixtures Fri 20 Nov (Mecca): Al Ahli v Al Nassr 20:30, Bayern v Koln 22:30, Troyes v Le Havre 22:45, Athletic v Espanyol 23:00 - Cairo24, Yallakora (+Masrawy, Youm7)",
     "media_id": "17994600615026587"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "feed",
+    "story": "Nations League QF draw result (drawn 20 Nov, Nyon): Spain v France, Norway v England, Netherlands v Portugal, Belgium v Germany; two legs March 2027, Finals June 2027 - Evening Standard, Bulinews (+Football Muse) (retry queue item resolved)",
+    "media_id": "18579936526074918"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "story",
+    "story": "Story: prediction card 'who will win?' Bayern Munich v Koln, Bundesliga, Fri 20 Nov 22:30 Mecca - Cairo24, Yallakora (no betting/odds)",
+    "media_id": "18136113940775188"
   }
 ]
