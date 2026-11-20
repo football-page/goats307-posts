@@ -558,5 +558,17 @@
   "type": "story",
   "story": "Story: Harry Kane off injured in 1st half (~20') v Koln, Olise off injured at start of 2nd half; HT Bayern 1-1 Koln (Moore 12', N. Brown 37') - Goal, beIN Sports, Youm7",
   "media_id": "18119783473806246"
+ },
+ {
+  "date": "2026-11-21",
+  "type": "story",
+  "story": "Story: FT Athletic Club 0-1 Espanyol, LaLiga MD13, 20 Nov, San Mames (Roberto Fernandez 66') - ESPN, So3ody",
+  "media_id": "17946223437379897"
+ },
+ {
+  "date": "2026-11-21",
+  "type": "feed",
+  "story": "FT Bayern Munich 1-1 Koln, Bundesliga MD10, 20 Nov (Mikey Moore 12', Nathaniel Brown 37'; Kane off injured 1st half, Olise off injured) - ESPN, VAVEL, beIN Sports (retry queue item resolved as fresh result)",
+  "media_id": "18193432408410145"
  }
 ]
