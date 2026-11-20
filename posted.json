@@ -539,5 +539,12 @@
     "type": "feed",
     "story": "FT Al-Zawraa 4-1 Al-Talaba, Iraqi Stars League R14 Baghdad derby, 20 Nov (Hiran Ahmed 3', 86'; Mohammed Qasim 80'; Hasan Abdulkarim 84'; Alaa Abdulzahra 19'); Zawraa 24 pts - Yalla Shoot, Shafaq News (+Al Mada) (retry queue item resolved)",
     "media_id": "17917253904506050"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "reel",
+    "story": "FT Al Ahli 3-1 Al Nassr, SPL postponed MD9, Jeddah 20 Nov (Ronaldo 14', Ronaldo pen miss 18' post; Galeno 45+1', Toney pen 71', Ibanez 75'); Nassr 3rd 28 pts, Ahli 4th 24 (match reel, 22:00 run) - Yallakora, Makkah News (+YSScores) (retry queue item resolved)",
+    "media_id": "18111546101340084",
+    "video_path": "posts/2026-11-20/reel_ahli_nassr_ft.mp4"
   }
 ]
