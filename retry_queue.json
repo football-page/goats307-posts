@@ -3,25 +3,25 @@
     "date": "2026-11-20",
     "item": "Pochettino pre-Liverpool press conference (14:00 UK): Man Utd team news (Shaw, Martinez, Rashford, Sesko, Dorgu)",
     "kind": "news",
-    "reason": "18:00 re-check: presser transcript (The Peoples Person/Yahoo) has no concrete availability from Pochettino; only pre-presser Sports Mole lines. Match: Liverpool v Man Utd, Sun 22 Nov, Anfield",
+    "reason": "19:00 re-check: only NBC live blog (summary) gives team news (Ugarte, Sesko out; Baleba weeks; Shaw doubt; Rashford pushing); Goal covers only presser-time waiver; USA Today no team news - still one source",
     "added_at": "2026-11-20T16:40+02:00",
-    "rechecked_at": "2026-11-20T18:25+02:00"
+    "rechecked_at": "2026-11-20T19:15+02:00"
   },
   {
     "date": "2026-11-20",
     "item": "Al-Zawraa v Al-Talaba (Iraqi Stars League R14 Baghdad derby, Al-Jolan Stadium) result",
     "kind": "result",
-    "reason": "18:00 re-check: in progress (KO 15:30 UTC); no live source readable - get FT result next run",
+    "reason": "19:00 re-check: search returned only the May 2026 round-33 derby (1-0); no report of today's result yet",
     "added_at": "2026-11-20T16:40+02:00",
-    "rechecked_at": "2026-11-20T18:25+02:00"
+    "rechecked_at": "2026-11-20T19:15+02:00"
   },
   {
     "date": "2026-11-20",
     "item": "Fiji U17 v Morocco U17 (U-17 World Cup Group 8) live/result",
     "kind": "live",
-    "reason": "18:00 re-check: in progress (KO 16:00 UTC); FOX page cached pre-match, ESPN dated page blocked, FIFA JS-only - no two live sources; result next run",
+    "reason": "19:00 re-check: FotMob/YSscores still show preview, Sofascore blocked, Barlamane result was the 2025 Mali match - no two live sources",
     "added_at": "2026-11-20T16:40+02:00",
-    "rechecked_at": "2026-11-20T18:25+02:00"
+    "rechecked_at": "2026-11-20T19:15+02:00"
   },
   {
     "date": "2026-11-20",
@@ -34,7 +34,8 @@
     "date": "2026-11-20",
     "item": "Chelsea team news v Leeds (Sat 21 Nov 15:00 UK): Alonso - Caicedo & Acheampong fit; Joao Pedro, Lacroix, Hato out; James weeks away",
     "kind": "news",
-    "reason": "Only Sports Mole (20 Nov 14:08Z) confirmed; other results were old articles",
-    "added_at": "2026-11-20T18:25+02:00"
+    "reason": "19:00: not re-checked (no new source found)",
+    "added_at": "2026-11-20T18:25+02:00",
+    "rechecked_at": "2026-11-20T19:15+02:00"
   }
 ]
