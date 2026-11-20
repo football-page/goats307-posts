@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "date": "2026-11-20",
+    "item": "Pochettino pre-Liverpool press conference (14:00 UK): Man Utd team news (Shaw, Martinez, Rashford, Sesko, Dorgu)",
+    "kind": "news",
+    "reason": "Press conference had only just started; no two sources with team news yet (manutd.com, liverpool.com fetch failed)",
+    "added_at": "2026-11-20T16:40+02:00"
+  },
+  {
+    "date": "2026-11-20",
+    "item": "Al-Zawraa v Al-Talaba (Iraqi Stars League R14 Baghdad derby, Al-Jolan Stadium) result",
+    "kind": "result",
+    "reason": "Kick-off time conflicts (Cairo Mubasher 13:15 Cairo vs YSScores 18:30 Baghdad); no result in any source yet",
+    "added_at": "2026-11-20T16:40+02:00"
+  },
+  {
+    "date": "2026-11-20",
+    "item": "Fiji U17 v Morocco U17 (U-17 World Cup Group 8) live/result",
+    "kind": "live",
+    "reason": "Kick-off time conflicts (16:00 Morocco per LeSiteInfo vs 18:00 Cairo/19:00 Mecca per Youm7, Btolat); not started at check time",
+    "added_at": "2026-11-20T16:40+02:00"
+  }
+]
