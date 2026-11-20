@@ -22,5 +22,12 @@
     "reason": "Kick-off confirmed 16:00 UTC (19:00 Mecca) by FotMob, Goal, ESPN; not started at 17:00 run - live story/result next run",
     "added_at": "2026-11-20T16:40+02:00",
     "rechecked_at": "2026-11-20T17:20+02:00"
+  },
+  {
+    "date": "2026-11-20",
+    "item": "Story: Arsenal injuries (Zubimendi out for weeks, Saka ~8 weeks, Saliba ready) - card posts/2026-11-20/arsenal_injuries_story.jpg",
+    "kind": "news",
+    "reason": "create_story returned an error ('media not found') at 17:2x; retry was blocked. Unknown whether it went live - check the account's stories before republishing, never post twice",
+    "added_at": "2026-11-20T17:25+02:00"
   }
 ]
