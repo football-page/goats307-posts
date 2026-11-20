@@ -507,5 +507,25 @@
     "type": "story",
     "story": "Story: Blackpool sack head coach Ian Evatt (announced Thu 19 Nov) after 12 months, appointed Oct 2025, near League One relegation zone - ABC News, Central Radio",
     "media_id": "17879896728573400"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "story",
+    "story": "Live story: Al Ahli 0-1 Al Nassr, SPL postponed MD9, first half (~42'): Ronaldo goal 14', Ronaldo missed penalty 18' (post) - Asharq, So3ody",
+    "media_id": "18116594339175695"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "feed",
+    "story": "FT Morocco U17 6-0 Fiji U17, U-17 World Cup Group 8 MD1, Doha (Ismail Al-Oud 3', Zyad Baha brace 2nd half, + Talai, Ibrahim, Lakmani); Morocco top with Spain on 3 pts - Vetogate, Barlamane (+Btolat) (retry queue item resolved)",
+    "media_id": "18473904814191021"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "reel",
+    "creative": "player_stats",
+    "story": "Creative Reel (player stats): Lamine Yamal vs Vinicius Jr LaLiga 2026-27 to 20.11.2026 - goals 10 v 1, assists 8 v 3, apps 12 v 8, G+A 18 v 4; Yamal top assister (Javi Hernandez 6 2nd) - ESPN, FotMob, VAVEL, BeSoccer",
+    "media_id": "18120980293998304",
+    "video_path": "posts/2026-11-20/reel_stats_yamal_vinicius.mp4"
   }
 ]
