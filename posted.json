@@ -570,5 +570,11 @@
   "type": "feed",
   "story": "FT Bayern Munich 1-1 Koln, Bundesliga MD10, 20 Nov (Mikey Moore 12', Nathaniel Brown 37'; Kane off injured 1st half, Olise off injured) - ESPN, VAVEL, beIN Sports (retry queue item resolved as fresh result)",
   "media_id": "18193432408410145"
+ },
+ {
+  "date": "2026-11-21",
+  "type": "reel",
+  "story": "Nightly round-up reel 'أبرز نتائج الليلة' (Al Ahli 3-1 Al Nassr, Bayern 1-1 Koln, Morocco U17 6-0 Fiji, Al Zawraa 4-1 Al Talaba, Athletic 0-1 Espanyol) - published silently by Claude in 01:00 fallback (Razi had not posted it)",
+  "media_id": "18102098819422264"
  }
 ]
