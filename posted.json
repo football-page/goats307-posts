@@ -690,5 +690,13 @@
   "type": "story",
   "story": "Story: FT Parma 1-5 Roma, Serie A MD12, 21 Nov (Malen 4 goals, Rodrigo Mora 1) - LaPresse, Adnkronos, il Giornale",
   "media_id": "18003626865011183"
+ },
+ {
+  "date": "2026-11-21",
+  "type": "feed",
+  "story": "FT Newcastle 2-2 Arsenal, Premier League MD11, 21 Nov, St James' Park (Eze 33'; Barnes 49', Thiaw 62'; Madueke 78') - Sky Sports, VAVEL",
+  "media_id": "18648516382031862",
+  "file": "posts/2026-11-21/newcastle_arsenal_ft.jpg",
+  "published_at": "2026-11-21T22:20+02:00"
  }
 ]
