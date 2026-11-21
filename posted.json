@@ -713,5 +713,13 @@
   "story": "FT Real Madrid 2-1 Celta Vigo, LaLiga MD13, 21 Nov, Bernabeu (Pablo Duran 6'; Bellingham 66' (Mbappe assist), Carlos Espi 85'); Madrid 33 pts level with Barca - ESPN, Koraplus (+TNT/HolaNews headlines) (retry queue item resolved)",
   "media_id": "18426007036154001",
   "file": "posts/2026-11-22/rm_celta_ft.jpg"
+ },
+ {
+  "date": "2026-11-22",
+  "type": "reel",
+  "story": "Nightly round-up reel 'أبرز نتائج الليلة' (Sat 21 Nov): RM 2-1 Celta, Newcastle 2-2 Arsenal, Chelsea 1-4 Leeds, Nice 2-3 PSG, Parma 1-5 Roma - published silently by Claude in 01:00 fallback (Razi had not posted it)",
+  "media_id": "18131140186882451",
+  "file": "posts/2026-11-22/reel_roundup_2211.mp4",
+  "published_at": "2026-11-22T01:10+02:00"
  }
 ]
