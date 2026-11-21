@@ -648,5 +648,11 @@
   "type": "feed",
   "story": "FT Man City 1-1 Fulham, Premier League MD11, 21 Nov, Etihad (Rodrigo Muniz 16', Elliot Anderson 57'); City 22 pts - ESPN, AP (retry queue item resolved)",
   "media_id": "18129829948663893"
+ },
+ {
+  "date": "2026-11-21",
+  "type": "story",
+  "story": "Story: FT Lazio 3-0 Lecce, Serie A MD12, 21 Nov (Noslin 2, Frattesi); Lazio top & unbeaten - ESPN, Corriere dello Sport, Goal, FC Inter 1908",
+  "media_id": "18653925385010055"
  }
 ]
