@@ -654,5 +654,17 @@
   "type": "story",
   "story": "Story: FT Lazio 3-0 Lecce, Serie A MD12, 21 Nov (Noslin 2, Frattesi); Lazio top & unbeaten - ESPN, Corriere dello Sport, Goal, FC Inter 1908",
   "media_id": "18653925385010055"
+ },
+ {
+  "date": "2026-11-21",
+  "type": "story",
+  "story": "Story: FT Gladbach 0-1 Dortmund, Bundesliga MD10, 21 Nov (Nmecha ~80'); Dortmund top, two points clear of Bayern - Flashscore, Yahoo (dpa, AFP)",
+  "media_id": "18005689859800164"
+ },
+ {
+  "date": "2026-11-21",
+  "type": "feed",
+  "story": "FT Chelsea 1-4 Leeds, Premier League MD11, 21 Nov, Stamford Bridge (Emegha 25'; Okafor 28', ~58'; Calvert-Lewin pen 53'; Aaronson 90+1'); Leeds' first win at Stamford Bridge since 1999 - NBC Sports, 101 Great Goals",
+  "media_id": "18029088431877580"
  }
 ]
