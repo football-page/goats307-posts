@@ -706,5 +706,12 @@
   "media_id": "17889108036505767",
   "file": "posts/2026-11-21/sevilla_betis_story.jpg",
   "published_at": "2026-11-21T23:18+02:00"
+ },
+ {
+  "date": "2026-11-22",
+  "type": "feed",
+  "story": "FT Real Madrid 2-1 Celta Vigo, LaLiga MD13, 21 Nov, Bernabeu (Pablo Duran 6'; Bellingham 66' (Mbappe assist), Carlos Espi 85'); Madrid 33 pts level with Barca - ESPN, Koraplus (+TNT/HolaNews headlines) (retry queue item resolved)",
+  "media_id": "18426007036154001",
+  "file": "posts/2026-11-22/rm_celta_ft.jpg"
  }
 ]
