@@ -1,0 +1,13 @@
+{"title":"أبرز نتائج الليلة","subtitle":"السبت 21.11.2026","theme":"gold",
+ "slides":[
+ {"tag":"الدوري الإسباني","theme":"gold","headline":"ريمونتادا ملكية أمام سيلتا","home":"ريال مدريد","away":"سيلتا فيغو","home_score":2,"away_score":1,
+  "facts":["دوران 6' - بيلينغهام 66'","كارلوس إسبي 85'"],"source":"ESPN، كورة بلس","date":"21.11.2026"},
+ {"tag":"الدوري الإنجليزي","theme":"purple","headline":"مادويكي ينقذ أرسنال في نيوكاسل","home":"نيوكاسل","away":"أرسنال","home_score":2,"away_score":2,
+  "facts":["إيزي 33' - مادويكي 78'","بارنز 49' - تياو 62'"],"source":"Sky Sports، VAVEL","date":"21.11.2026"},
+ {"tag":"الدوري الإنجليزي","theme":"blue","headline":"ليدز يكتسح تشيلسي في ستامفورد بريدج","home":"تشيلسي","away":"ليدز","home_score":1,"away_score":4,
+  "facts":["ثنائية لأوكافور","أول فوز لليدز هناك منذ 1999"],"source":"NBC Sports، 101 Great Goals","date":"21.11.2026"},
+ {"tag":"الدوري الفرنسي","theme":"red","headline":"باريس يخطفها في الوقت القاتل","home":"نيس","away":"باريس سان جيرمان","home_score":2,"away_score":3,
+  "facts":["دويه 32' بصناعة حكيمي","عبدي 90+5' هدف الفوز"],"source":"Goal، Le Quotidien du Sport","date":"21.11.2026"},
+ {"tag":"الدوري الإيطالي","theme":"green","headline":"رباعية مالين تقود روما","home":"بارما","away":"روما","home_score":1,"away_score":5,
+  "facts":["مالين سجل 4 أهداف"],"source":"LaPresse، Adnkronos","date":"21.11.2026"}
+ ]}
