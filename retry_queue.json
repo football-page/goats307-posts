@@ -1,9 +1,9 @@
 [
  {
   "date": "2026-11-22",
-  "item": "Liverpool v Man Utd, Premier League (KO 18:30 Hebron) - full-time result (early: Yoro red 8', Szoboszlai 10', Wirtz 13' -> 2-0)",
+  "item": "Liverpool v Man Utd, Premier League (KO 18:30 Hebron) - full-time result (Yoro red 8', Szoboszlai 10', Wirtz 13'; 3-0 ~70' per Almasdar24/Yallakora)",
   "kind": "result",
-  "reason": "19:00 run: live sources (Al-Dawla, YSscores) only updated ~16:50 UTC, nothing within last 10 min; NBC/VAVEL/Sky live pages stale",
+  "reason": "20:00 run: still unconfirmed - live sources (VAVEL 54' 2-0, Flashscore ~1st half, Almasdar24 3-0 ~70' single-source for Ngumoha 66') stale; no full-time report found",
   "added_at": "2026-11-22T19:20+02:00"
  }
 ]
