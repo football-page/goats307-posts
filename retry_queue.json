@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "date": "2026-11-22",
+  "item": "Juventus 4-0 Venezia, Serie A MD12 (Woltemade 53', Koopmeiners 58/59', Cabal 65', Kolo Muani pen 71') - need full-time confirmation",
+  "kind": "result",
+  "reason": "Goal.com + Football Italia agree 4-0 with scorers but both live blogs stop at 71', no FT label in two sources yet",
+  "added_at": "2026-11-22T15:35+02:00"
+ },
+ {
+  "date": "2026-11-22",
+  "item": "Barcelona v Villarreal, LaLiga MD13 (KO 15:00 Hebron) - live score / full-time",
+  "kind": "live",
+  "reason": "No live source fetched in this run showed a current score (ESPN/VAVEL pages served pre-match snapshots)",
+  "added_at": "2026-11-22T15:35+02:00"
+ }
+]
