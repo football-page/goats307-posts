@@ -826,5 +826,21 @@
   "media_id": "18120230510002932",
   "file": "posts/2026-11-22/saudi_france_u17_ft.jpg",
   "published_at": "2026-11-22T18:17+02:00"
+ },
+ {
+  "date": "2026-11-22",
+  "type": "story",
+  "story": "Story: prediction card 'who will win?' Atalanta v Inter, Serie A MD12, Sun 22 Nov 22:45 Mecca - Sportmediaset, AFP, Koraplus (no betting/odds)",
+  "media_id": "18361103764174990",
+  "file": "posts/2026-11-22/atalanta_inter_predict_story.jpg",
+  "published_at": "2026-11-22T19:24+02:00"
+ },
+ {
+  "date": "2026-11-22",
+  "type": "feed",
+  "story": "FT Egypt U17 2-0 Qatar U17, U-17 World Cup round 2, 22 Nov, Doha (Ahmed Safwat 2', Khaled Mokhtar 1st half); Egypt's first win - Masrawy, Koraplus, 365Scores (retry queue item resolved)",
+  "media_id": "18123810635582810",
+  "file": "posts/2026-11-22/egypt_qatar_u17_ft.jpg",
+  "published_at": "2026-11-22T19:25+02:00"
  }
 ]
