@@ -882,5 +882,21 @@
   "media_id": "17955440856317765",
   "file": "posts/2026-11-22/atalanta_inter_ft_story.jpg",
   "published_at": "2026-11-22T23:49+02:00"
+ },
+ {
+  "date": "2026-11-23",
+  "type": "story",
+  "story": "Story: LaLiga title race after MD13 - Barca 36, Real Madrid 33, Atletico 31 (all 13 played) - theScore, ESPN, FotMob, LaLiga",
+  "media_id": "17919738330540701",
+  "file": "posts/2026-11-23/laliga_race_story.jpg",
+  "published_at": "2026-11-23T00:30+02:00"
+ },
+ {
+  "date": "2026-11-23",
+  "type": "feed",
+  "story": "FT Getafe 0-3 Atletico Madrid, LaLiga MD13, 22 Nov, Coliseum (Baena 10', Johnny Cardoso 30', third goal in stoppage time - scorer single-source, omitted); Atletico 31 pts - FotMob, VAVEL",
+  "media_id": "17968012641214120",
+  "file": "posts/2026-11-23/getafe_atletico_ft.jpg",
+  "published_at": "2026-11-23T00:30+02:00"
  }
 ]
