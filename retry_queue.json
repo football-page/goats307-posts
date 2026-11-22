@@ -1,1 +1,9 @@
-[]
+[
+ {
+  "date": "2026-11-22",
+  "item": "Story: Barcelona v Villarreal kick-off card (16:00 Mecca, beIN HD1) - posts/2026-11-22/barca_villarreal_kickoff_story.jpg",
+  "kind": "news",
+  "reason": "create_story returned 'media not found' error (container 18078541604732761); unclear if published; a retry was blocked to avoid a duplicate. Next run: check the page's Stories before republishing (only before 16:00 Mecca kick-off).",
+  "added_at": "2026-11-22T12:35+02:00"
+ }
+]
