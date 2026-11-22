@@ -1,9 +1,9 @@
 [
  {
   "date": "2026-11-22",
-  "item": "Qatar U17 v Egypt U17, U-17 World Cup round 2 (KO 17:00 Hebron) - full-time result (HT Egypt 2-0: Ahmed Safwat, Khaled Mokhtar)",
+  "item": "Liverpool v Man Utd, Premier League (KO 18:30 Hebron) - full-time result (early: Yoro red 8', Szoboszlai 10', Wirtz 13' -> 2-0)",
   "kind": "result",
-  "reason": "18:00 run: HT 2-0 confirmed by Youm7 + Egypt Telegraph but goal minutes differ (1'/3', 33'/34') and no source updated in the last 10 min for the 2nd half",
-  "added_at": "2026-11-22T18:15+02:00"
+  "reason": "19:00 run: live sources (Al-Dawla, YSscores) only updated ~16:50 UTC, nothing within last 10 min; NBC/VAVEL/Sky live pages stale",
+  "added_at": "2026-11-22T19:20+02:00"
  }
 ]
