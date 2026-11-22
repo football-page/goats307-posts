@@ -1,16 +1,9 @@
 [
  {
   "date": "2026-11-22",
-  "item": "Barcelona v Villarreal, LaLiga MD13 (KO 15:00 Hebron) - HT 0-2 (Buchanan 5', Oluwaseyi 7'; Yamal pen hit post ~22') - need 2nd-half/full-time",
-  "kind": "live",
-  "reason": "16:00 run: Al Jazeera (HT 0-2, updated 13:54 UTC), VAVEL, Digi Sport, BeSoccer agree 0-2, but no source updated within 10 min to give current minute/score",
-  "added_at": "2026-11-22T16:15+02:00"
- },
- {
-  "date": "2026-11-22",
   "item": "Saudi Arabia U17 v France U17, U-17 World Cup round 2 (KO 15:30 Hebron) - live/full-time",
   "kind": "live",
-  "reason": "16:00 run: no live source found with a current score (365Scores article pre-match only)",
-  "added_at": "2026-11-22T16:15+02:00"
+  "reason": "17:00 run: still no live source with a current score (Al Jazeera liveblog pre-match only, Fox Sports scores page not updated)",
+  "added_at": "2026-11-22T17:25+02:00"
  }
 ]
