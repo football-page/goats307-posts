@@ -1,16 +1,16 @@
 [
  {
   "date": "2026-11-22",
-  "item": "Juventus 4-0 Venezia, Serie A MD12 (Woltemade 53', Koopmeiners 58/59', Cabal 65', Kolo Muani pen 71') - need full-time confirmation",
-  "kind": "result",
-  "reason": "Goal.com + Football Italia agree 4-0 with scorers but both live blogs stop at 71', no FT label in two sources yet",
-  "added_at": "2026-11-22T15:35+02:00"
+  "item": "Barcelona v Villarreal, LaLiga MD13 (KO 15:00 Hebron) - HT 0-2 (Buchanan 5', Oluwaseyi 7'; Yamal pen hit post ~22') - need 2nd-half/full-time",
+  "kind": "live",
+  "reason": "16:00 run: Al Jazeera (HT 0-2, updated 13:54 UTC), VAVEL, Digi Sport, BeSoccer agree 0-2, but no source updated within 10 min to give current minute/score",
+  "added_at": "2026-11-22T16:15+02:00"
  },
  {
   "date": "2026-11-22",
-  "item": "Barcelona v Villarreal, LaLiga MD13 (KO 15:00 Hebron) - live score / full-time",
+  "item": "Saudi Arabia U17 v France U17, U-17 World Cup round 2 (KO 15:30 Hebron) - live/full-time",
   "kind": "live",
-  "reason": "No live source fetched in this run showed a current score (ESPN/VAVEL pages served pre-match snapshots)",
-  "added_at": "2026-11-22T15:35+02:00"
+  "reason": "16:00 run: no live source found with a current score (365Scores article pre-match only)",
+  "added_at": "2026-11-22T16:15+02:00"
  }
 ]
