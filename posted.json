@@ -802,5 +802,21 @@
   "story": "FT Juventus 4-0 Venezia, Serie A MD12, 22 Nov (HT 0-0; Woltemade 53', Koopmeiners 59', Cabal 65', Kolo Muani pen 71') - EFE/Infobae, YSscores (retry queue item resolved)",
   "media_id": "17897486187432240",
   "file": "posts/2026-11-22/juve_venezia_ft.jpg"
+ },
+ {
+  "date": "2026-11-22",
+  "type": "reel",
+  "story": "Match reel: FT Barcelona 3-2 Villarreal, LaLiga MD13, 22 Nov, Camp Nou (Buchanan 5', Oluwaseyi 7'; Gerard Martin 57', Fermin 61', Pau Navarro OG 67'; Navarro sent off late); Barca top on 36, +3 on Real Madrid - theScore, Koraplus (+Asharq, OKDiario) (retry queue item resolved)",
+  "media_id": "18118202069015120",
+  "file": "posts/2026-11-22/reel_barca_villarreal.mp4",
+  "published_at": "2026-11-22T17:20+02:00"
+ },
+ {
+  "date": "2026-11-22",
+  "type": "story",
+  "story": "Story: LaLiga table after Barca 3-2 Villarreal - Barca 36 (13), Real Madrid 33 (13), Atletico 28 (12, plays Getafe tonight) - Koraplus, Asharq, theScore, ESPN",
+  "media_id": "18112984850578615",
+  "file": "posts/2026-11-22/laliga_table_after_barca_story.jpg",
+  "published_at": "2026-11-22T17:27+02:00"
  }
 ]
