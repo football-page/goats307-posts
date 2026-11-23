@@ -212,7 +212,8 @@ def render(spec, out):
             p = ease(et / 0.45)
             lay = layer()
             ld = ImageDraw.Draw(lay)
-            ld.rounded_rectangle([60, 880, W - 60, 1420], radius=40, fill=(8, 12, 26, 235),
+            box_bot = max(1420, 960 + 95 + 75 * len(spec["clues"]) + 40 + 85 * (len(spec["cta"]) - 1) + 55)
+            ld.rounded_rectangle([60, 880, W - 60, box_bot], radius=40, fill=(8, 12, 26, 235),
                                  outline=accent, width=4)
             y = 960
             mc.text(ld, (W / 2, y), "تلميحات", mc.font(900, 54), accent, "mm")
