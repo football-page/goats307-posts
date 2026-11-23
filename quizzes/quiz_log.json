@@ -31,5 +31,15 @@
   "status": "answered",
   "media_id": "18476591011184961",
   "answer_story_media_id": "18111469070223447"
+ },
+ {
+  "date": "2026-11-23",
+  "spec": "quizzes/quiz_04_vanbasten_ussr_1988.json",
+  "video": "posts/2026-11-23/quiz_04.mp4",
+  "goal": "Marco van Basten right-foot volley from a tight angle on the right, from Arnold Muhren's long cross from the left, 54th minute, UEFA Euro 1988 final, 25 June 1988, Olympiastadion Munich; Netherlands 2-0 USSR (Gullit header first half); keeper Rinat Dasayev",
+  "answer": "ماركو فان باستن",
+  "answer_sources": "UEFA.com ('Ten great EURO moments: Van Basten's volley'), Irish Times ('Euro Moments'), Sky Sports ('1988 Dutch of class'), FourFourTwo",
+  "status": "published",
+  "media_id": "17914392936478235"
  }
 ]
