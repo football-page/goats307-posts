@@ -954,5 +954,21 @@
   "media_id": "18112358189368578",
   "file": "posts/2026-11-23/yamal_out_sabah.jpg",
   "published_at": "2026-11-23T14:20+02:00"
+ },
+ {
+  "date": "2026-11-23",
+  "type": "story",
+  "story": "Story: prediction card 'who will win?' Al Ahly v Pyramids, Egyptian league round 9, Mon 23 Nov 21:00 Mecca, Cairo International Stadium - Youm7, Cairo Mubasher",
+  "media_id": "18030535676920289",
+  "file": "posts/2026-11-23/ahly_pyramids_predict_story.jpg",
+  "published_at": "2026-11-23T15:35+02:00"
+ },
+ {
+  "date": "2026-11-23",
+  "type": "feed",
+  "story": "Official: Endrick muscle injury left leg (RM medical report 23 Nov, pending evolution, no time given) before Real Madrid v PSV UCL (Tue 24 Nov 23:00 Mecca); Dumfries trained indoors; Rodrygo & Asencio still recovering - realmadrid.com, Goal",
+  "media_id": "18103931621395290",
+  "file": "posts/2026-11-23/endrick_injury.jpg",
+  "published_at": "2026-11-23T15:36+02:00"
  }
 ]
