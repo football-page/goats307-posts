@@ -984,5 +984,21 @@
   "media_id": "18133319821829929",
   "file": "posts/2026-11-23/saudi_afc_tonight_story.jpg",
   "published_at": "2026-11-23T17:22+02:00"
+ },
+ {
+  "date": "2026-11-23",
+  "type": "story",
+  "story": "Story: Al Hilal AFC Champions League Elite record after MD5 - 3W 1D 1L, 10 pts, 2nd in West; Neftchi 9th 5 pts - Youm7, Asharq Sports",
+  "media_id": "18387407764233496",
+  "file": "posts/2026-11-23/hilal_afc_record_story.jpg",
+  "published_at": "2026-11-23T18:25+02:00"
+ },
+ {
+  "date": "2026-11-23",
+  "type": "feed",
+  "story": "FT Neftchi 2-2 Al Hilal, AFC Champions League Elite MD5, 23 Nov (Watkins 21', Martinelli 28'; Ismoilov 50', Akcicek OG 70'); Al Hilal 2nd West 10 pts - Sabq, Asharq Sports (+Youm7) (retry queue item resolved)",
+  "media_id": "17886766032528247",
+  "file": "posts/2026-11-23/neftchi_hilal_ft.jpg",
+  "published_at": "2026-11-23T18:25+02:00"
  }
 ]
