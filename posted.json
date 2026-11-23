@@ -1040,5 +1040,34 @@
   "file": "posts/2026-11-23/ittihad_pakhtakor_ft_story.jpg",
   "published_at": "2026-11-23T23:15+02:00",
   "media_id": "18107736929017008"
+ },
+ {
+  "date": "2026-11-24",
+  "type": "story",
+  "story": "Story-only FT: Levante 1-1 Elche, LaLiga MD13, 23 Nov (Levante late equaliser; scorers/minutes omitted - single source) - HolaNews, COPE, ceroacero",
+  "media_id": "17921925861530202",
+  "file": "posts/2026-11-24/levante_elche_story.jpg"
+ },
+ {
+  "date": "2026-11-24",
+  "type": "feed",
+  "story": "FT Monza 3-0 Fiorentina, Serie A MD12, 23 Nov (Varela 45' pen, 51'; Robinson 59'); Monza overtake Fiorentina - Goal Italia, Football Italia",
+  "media_id": "18121010467792921",
+  "file": "posts/2026-11-24/monza_fiorentina_ft.jpg"
+ },
+ {
+  "date": "2026-11-24",
+  "type": "feed",
+  "story": "FT Brentford 4-0 Everton, Premier League MD11, 23 Nov (Lewis-Potter 23', 25'; Janelt 67'; Carvalho 90'; Tarkowski red after VAR review) - 101GreatGoals, En Son Dakika (+Everton FC headline 4-0, Yahoo/Goodison News on red)",
+  "media_id": "17976586221191285",
+  "file": "posts/2026-11-24/brentford_everton_ft.jpg"
+ },
+ {
+  "date": "2026-11-24",
+  "type": "reel",
+  "story": "Nightly round-up reel 'أبرز نتائج الليلة' (Mon 23 Nov): Neftchi 2-2 Al Hilal, Al Ahly 0-2 Pyramids, Al Shamal 3-2 Al Ahli, Brentford 4-0 Everton, Monza 3-0 Fiorentina - NOT published, waiting for Razi (pending_reel.json)",
+  "media_id": null,
+  "file": "posts/2026-11-24/reel_roundup_2411.mp4",
+  "status": "waiting_for_razi"
  }
 ]
