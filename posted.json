@@ -1113,5 +1113,21 @@
   "media_id": "18123165265999169",
   "file": "posts/2026-11-24/rm_psv_predict_story.jpg",
   "published_at": "2026-11-24T14:20+02:00"
+ },
+ {
+  "date": "2026-11-24",
+  "type": "story",
+  "story": "Story: Egyptian league top 3 after Al Ahly 0-2 Pyramids (Pyramids 27, Zamalek 22, Al Ahly 20) - Btolat, Al Jazeera",
+  "media_id": "17985162303157080",
+  "file": "posts/2026-11-24/egypt_table_story.jpg",
+  "published_at": "2026-11-24T15:20+02:00"
+ },
+ {
+  "date": "2026-11-24",
+  "type": "feed",
+  "story": "Official: Al Ahly (Egypt) sack coach Hussein Amouta after 0-2 loss to Pyramids; record 14 games 11W 2D 1L; appointed June 2026; Ahly 3rd on 20 pts - Al Jazeera, Btolat, Emirates 24, Italia Telegraph",
+  "media_id": "18134320357695354",
+  "file": "posts/2026-11-24/ahly_amouta_sacked.jpg",
+  "published_at": "2026-11-24T15:20+02:00"
  }
 ]
