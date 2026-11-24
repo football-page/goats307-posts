@@ -1215,5 +1215,29 @@
   "story": "Live story: Real Madrid 1-1 PSV, 2nd half (~50'), UCL MD5, 24 Nov; Perisic pen 1st half (minute 31/32 disputed, omitted); RM equaliser early 2nd half (scorer single-source, omitted) - Al-Ain, Al Jazeera, Ouest-France",
   "media_id": "18150780391603303",
   "published_at": "2026-11-24T23:20+02:00"
+ },
+ {
+  "date": "2026-11-25",
+  "type": "story",
+  "story": "Story-only FT: Man City 2-2 Napoli, UCL league phase MD5, 24 Nov (Napoli led twice via Hojlund and Lang; Cherki 86' equaliser; City's first equaliser scorer single-source, omitted) - Football Italia, VAVEL",
+  "media_id": "18128486581709627",
+  "file": "posts/2026-11-25/city_napoli_ft_story.jpg",
+  "published_at": "2026-11-25T00:20+02:00"
+ },
+ {
+  "date": "2026-11-25",
+  "type": "story",
+  "story": "Story: matchday card Sabah v Barcelona, UCL MD5, Wed 25 Nov 20:45 Mecca, Baku; Yamal out (ankle) - Sport News Africa, Paramount+, ESPN, Goal (no TV channel)",
+  "media_id": "18021325991980019",
+  "file": "posts/2026-11-25/barca_sabah_today_story.jpg",
+  "published_at": "2026-11-25T00:20+02:00"
+ },
+ {
+  "date": "2026-11-25",
+  "type": "feed",
+  "story": "FT Real Madrid 5-1 PSV, UCL league phase MD5, 24 Nov (Perisic pen 32'; Valverde 50', Bellingham 60', Mbappe 64', 84', Vinicius 87'); RM 5 wins from 5 - ESPN, beIN SPORTS. Image post (no reel slot: Nassr reel at 23:20, 2h spacing)",
+  "media_id": "18121658890778449",
+  "file": "posts/2026-11-25/rm_psv_ft.jpg",
+  "published_at": "2026-11-25T00:21+02:00"
  }
 ]
