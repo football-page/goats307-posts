@@ -1,0 +1,60 @@
+{
+ "title": "ميسي ضد رونالدو",
+ "subtitle": "صراع الألقاب الكبرى بالأرقام",
+ "theme": "gold",
+ "slide_seconds": 3.8,
+ "slides": [
+  {
+   "tag": "مواجهة بالأرقام",
+   "theme": "gold",
+   "headline": "جوائز الكرة الذهبية",
+   "home": "ميسي",
+   "away": "رونالدو",
+   "home_score": "8",
+   "away_score": "5",
+   "status": "كرات ذهبية",
+   "facts": ["ميسي: آخرها عام 2023", "رونالدو: آخرها عام 2017"],
+   "source": "Planet Football، Sports Mole",
+   "date": "حتى 24.11.2026"
+  },
+  {
+   "tag": "مواجهة بالأرقام",
+   "theme": "blue",
+   "headline": "ألقاب دوري أبطال أوروبا",
+   "home": "ميسي",
+   "away": "رونالدو",
+   "home_score": "4",
+   "away_score": "5",
+   "status": "ألقاب",
+   "facts": ["ميسي: 4 ألقاب مع برشلونة", "رونالدو: 4 مع ريال مدريد و1 مع مانشستر يونايتد"],
+   "source": "beIN SPORTS، Planet Football",
+   "date": "حتى 24.11.2026"
+  },
+  {
+   "tag": "مواجهة بالأرقام",
+   "theme": "green",
+   "headline": "كأس العالم",
+   "home": "ميسي",
+   "away": "رونالدو",
+   "home_score": "1",
+   "away_score": "0",
+   "status": "ألقاب",
+   "facts": ["ميسي توّج بمونديال 2022 مع الأرجنتين", "رونالدو لم يحقق كأس العالم بعد"],
+   "source": "beIN SPORTS، Planet Football",
+   "date": "حتى 24.11.2026"
+  },
+  {
+   "tag": "مواجهة بالأرقام",
+   "theme": "purple",
+   "headline": "البطولات القارية للمنتخبات",
+   "home": "ميسي",
+   "away": "رونالدو",
+   "home_score": "2",
+   "away_score": "1",
+   "status": "ألقاب",
+   "facts": ["ميسي: كوبا أمريكا 2021 و2024", "رونالدو: يورو 2016 مع البرتغال"],
+   "source": "beIN SPORTS، Planet Football",
+   "date": "حتى 24.11.2026"
+  }
+ ]
+}
