@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "date": "2026-11-25",
+  "item": "Sporting CP v Man Utd (UCL MD5, 25 Nov) - live sources stale/conflicting (Sky/VAVEL 0-0 at 15', FanCast 1-0 Suarez pen 33')",
+  "kind": "result",
+  "reason": "Matches still in progress/just finishing at 23:00 run; no two up-to-date sources confirmed the score before the run had to end (to avoid overlapping the 00:00 run)",
+  "added_at": "2026-11-25T23:50+02:00"
+ },
+ {
+  "date": "2026-11-25",
+  "item": "Club Brugge v Liverpool (UCL MD5, 25 Nov) - only stale ESPN/VAVEL pages, Isak opener single-source (101greatgoals)",
+  "kind": "result",
+  "reason": "Matches still in progress/just finishing at 23:00 run; no two up-to-date sources confirmed the score before the run had to end (to avoid overlapping the 00:00 run)",
+  "added_at": "2026-11-25T23:50+02:00"
+ },
+ {
+  "date": "2026-11-25",
+  "item": "PSG v Roma, Lille v Bayern, Inter v Stuttgart, Atletico v Viking (UCL MD5, 25 Nov) - only VAVEL sidebar live scores, no second source",
+  "kind": "result",
+  "reason": "Matches still in progress/just finishing at 23:00 run; no two up-to-date sources confirmed the score before the run had to end (to avoid overlapping the 00:00 run)",
+  "added_at": "2026-11-25T23:50+02:00"
+ }
+]
