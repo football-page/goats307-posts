@@ -1357,5 +1357,19 @@
   "type": "story",
   "story": "Story: prediction card 'who will win?' Sporting CP v Man Utd, UCL MD5, Wed 25 Nov 23:00 Mecca (no betting/odds) - Sport News Africa, VAVEL",
   "media_id": "17917290369515152"
+ },
+ {
+  "date": "2026-11-25",
+  "type": "reel",
+  "story": "FT Sabah 1-4 Barcelona, UCL league phase MD5, 25 Nov, Baku (Gordon 31', 51'; Adeyemi 55'; Gabriel Jesus 60'; Mickels 63' for Sabah); Barca 4th win in 5 (12 pts) - beIN SPORTS, dpa/Yahoo, YSscores",
+  "time": "2026-11-25T22:20+02:00",
+  "media_id": "17878711902586851"
+ },
+ {
+  "date": "2026-11-25",
+  "type": "story",
+  "story": "Story-only FT: Slavia Praha 0-1 Villarreal, UCL MD5, 25 Nov (scorer not confirmed, omitted) - dpa, VAVEL, GiveMeSport",
+  "time": "2026-11-25T22:25+02:00",
+  "media_id": "18184506499435094"
  }
 ]
