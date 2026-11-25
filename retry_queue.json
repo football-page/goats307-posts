@@ -1,16 +1,9 @@
 [
  {
   "date": "2026-11-25",
-  "item": "Haiti U17 v Saudi Arabia U17, FIFA U-17 World Cup group stage MD3 (kick-off 15:30 Cairo) - result",
-  "kind": "result",
-  "reason": "Only one live source (365Scores, 1-1 at 54': Ramos 28' Haiti, Abdullah Al-Dosari 54') - not yet confirmed by a second source, match not yet finished",
-  "added_at": "2026-11-25T17:25+02:00"
- },
- {
-  "date": "2026-11-25",
   "item": "Egypt U17 v Panama U17, FIFA U-17 World Cup MD3 (kick-off 16:30 Cairo) - full-time result (Egypt led 1-0, Youssef Abdallah 27')",
   "kind": "result",
-  "reason": "Match in progress at 17:25 run; publish FT result once two sources confirm",
-  "added_at": "2026-11-25T17:25+02:00"
+  "reason": "18:00 run: WinWin shows 3-1 (Youssef Abdallah 27', 47'; Khaled Mokhtar 59'; Panama Chalmers 50'), Al Ain had 3-1 at 59' only - no second full-time source yet",
+  "added_at": "2026-11-25T18:20+02:00"
  }
 ]
