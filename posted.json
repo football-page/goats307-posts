@@ -1371,5 +1371,29 @@
   "story": "Story-only FT: Slavia Praha 0-1 Villarreal, UCL MD5, 25 Nov (scorer not confirmed, omitted) - dpa, VAVEL, GiveMeSport",
   "time": "2026-11-25T22:25+02:00",
   "media_id": "18184506499435094"
+ },
+ {
+  "date": "2026-11-26",
+  "type": "feed",
+  "story": "FT Sporting CP 2-2 Man Utd, UCL MD5, 25 Nov (Sporting 1st-half pen; Bruno Fernandes 48' pen & 50'; Luis Suarez 80'; Tielemans red, stoppage time) - ESPN, Diario de Noticias",
+  "media_id": "17958241851320997",
+  "file": "posts/2026-11-26/sporting_manutd_ft.jpg",
+  "time": "2026-11-26T00:45+02:00"
+ },
+ {
+  "date": "2026-11-26",
+  "type": "feed",
+  "story": "FT PSG 2-2 Roma, UCL MD5, 25 Nov (Hermoso; Zabarnyi, Dembele pen; Malen 78' pen) - Football Italia, beIN",
+  "media_id": "18133821409695186",
+  "file": "posts/2026-11-26/psg_roma_ft.jpg",
+  "time": "2026-11-26T00:45+02:00"
+ },
+ {
+  "date": "2026-11-26",
+  "type": "feed",
+  "story": "FT Club Brugge 0-3 Liverpool, UCL MD5, 25 Nov (Isak 13', Wirtz 79', Isak brace) - Sky Sports, The Sports Encounter",
+  "media_id": "18092521781694674",
+  "file": "posts/2026-11-26/brugge_liverpool_ft.jpg",
+  "time": "2026-11-26T00:46+02:00"
  }
 ]
