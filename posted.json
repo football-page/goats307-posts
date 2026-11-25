@@ -1263,5 +1263,21 @@
   "media_id": "18129727645925680",
   "file": "posts/2026-11-25/arsenal_dortmund_ft.jpg",
   "published_at": "2026-11-25T12:31+02:00"
+ },
+ {
+  "date": "2026-11-25",
+  "type": "story",
+  "story": "Story: prediction card 'who will win?' Club Brugge v Liverpool, UCL MD5, Wed 25 Nov 23:00 Mecca (no betting/odds) - Paramount+, Sport News Africa",
+  "media_id": "18111025193372346",
+  "file": "posts/2026-11-25/brugge_liverpool_predict_story.jpg",
+  "time": "2026-11-25T13:20+02:00"
+ },
+ {
+  "date": "2026-11-25",
+  "type": "feed",
+  "story": "FT Feyenoord 0-1 Porto, UCL MD5, 24 Nov (own goal by Moroccan Oussama Targhalline inside first 2 minutes) - NL Times, Flashscore. From retry queue.",
+  "media_id": "18022587665977125",
+  "file": "posts/2026-11-25/feyenoord_porto_ft.jpg",
+  "time": "2026-11-25T13:20+02:00"
  }
 ]
