@@ -1247,5 +1247,21 @@
   "media_id": "18351999091253209",
   "file": "posts/2026-11-25/reel_roundup_2511.mp4",
   "published_at": "2026-11-25T01:10+02:00"
+ },
+ {
+  "date": "2026-11-25",
+  "type": "story",
+  "story": "Story: UCL MD5 Wednesday 25 Nov fixtures (Mecca): Sabah v Barcelona, Slavia v Villarreal 20:45; Sporting v Man Utd, Brugge v Liverpool, PSG v Roma, Lille v Bayern, Inter v Stuttgart, Atletico v Viking, Shakhtar v Fenerbahce 23:00 - Sport News Africa, VAVEL",
+  "media_id": "18117427519866236",
+  "file": "posts/2026-11-25/ucl_wed_fixtures_story.jpg",
+  "published_at": "2026-11-25T12:30+02:00"
+ },
+ {
+  "date": "2026-11-25",
+  "type": "feed",
+  "story": "FT Arsenal 1-1 Borussia Dortmund, UCL MD5, 24 Nov (Gyokeres 10' assist Madueke; Beier 55'); Arsenal 5th 11 pts unbeaten - Vetogate, Sinai News (+Youm7). From retry queue.",
+  "media_id": "18129727645925680",
+  "file": "posts/2026-11-25/arsenal_dortmund_ft.jpg",
+  "published_at": "2026-11-25T12:31+02:00"
  }
 ]
