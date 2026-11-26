@@ -1,0 +1,11 @@
+{"title":"أبرز نتائج الليلة","subtitle":"الخميس 26.11.2026","theme":"gold",
+ "slides":[
+ {"tag":"الدوري الأوروبي","theme":"red","headline":"ميلان يقلب الطاولة في بيرايوس","home":"أولمبياكوس","away":"ميلان","home_score":2,"away_score":4,
+  "facts":["هاتشينسون وسيسيه وبوليسيتش ومورييرا"],"source":"Goal، FootItalia","date":"26.11.2026"},
+ {"tag":"دوري المؤتمر الأوروبي","theme":"purple","headline":"صلاح يقود عودة طرابزون سبور","home":"سسكا صوفيا","away":"طرابزون","home_score":1,"away_score":2,
+  "facts":["صلاح 69' - سافيولو 90+3'"],"source":"Yeni Safak، Haberts","date":"26.11.2026"},
+ {"tag":"الدوري الأوروبي","theme":"gold","headline":"رباعية يوفنتوس بعد التأخر","home":"يوفنتوس","away":"أومونيا","home_score":4,"away_score":1,
+  "facts":["كامبياسو وإيكاتور وكونسيساو وبوغا"],"source":"Football Italia، Fanpage","date":"26.11.2026"},
+ {"tag":"الدوري الأوروبي","theme":"green","headline":"صدمة: بلزن يكتسح بنفيكا","home":"بلزن","away":"بنفيكا","home_score":4,"away_score":0,
+  "facts":["ثنائية لكابونغو"],"source":"Goal، RPP","date":"26.11.2026"}
+ ]}
