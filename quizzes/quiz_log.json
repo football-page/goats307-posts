@@ -1,1 +1,57 @@
-[{"date": "2026-11-17", "spec": "quizzes/sample_messi_getafe_2007.json", "video": "posts/2026-11-17/quiz_01.mp4", "goal": "Messi solo goal vs Getafe, Copa del Rey semi-final 1st leg, 18 April 2007 (Barcelona won 5-2)", "answer": "ليونيل ميسي", "answer_sources": "FC Barcelona official site, Sports Illustrated, Sky Sports", "status": "answered", "media_id": "18337322356277969", "answer_story_media_id": "18435318037151882"}, {"date": "2026-11-19", "spec": "quizzes/quiz_02_owairan_belgium_1994.json", "video": "posts/2026-11-19/quiz_02.mp4", "goal": "Saeed Al-Owairan solo run goal vs Belgium, 1994 World Cup Group F final match, 29 June 1994, RFK Stadium Washington, 5th minute; Saudi Arabia won 1-0 and reached the round of 16 (finished over keeper Michel Preud'homme)", "answer": "سعيد العويران", "answer_sources": "Goal.com (Mark Doyle), Arab News (Ali Khaled), FBref match report 29 June 1994, Khaleej Times", "status": "answered", "media_id": "18083231414723777", "answer_story_media_id": "18100912310475621"}, {"date": "2026-11-21", "spec": "quizzes/quiz_03_zidane_leverkusen_2002.json", "video": "posts/2026-11-21/quiz_03.mp4", "goal": "Zinedine Zidane left-foot volley from the edge of the area, Roberto Carlos cross from the left (after Solari pass), on the stroke of half-time (44'), UEFA Champions League final, 15 May 2002, Hampden Park Glasgow; Real Madrid 2-1 Bayer Leverkusen (Raul 9', Lucio 14', Zidane 44')", "answer": "زين الدين زيدان", "answer_sources": "UEFA.com ('Madrid win ninth European crown'), realmadrid.com ('We won La Novena 23 years ago')", "status": "answered", "media_id": "18476591011184961", "answer_story_media_id": "18111469070223447"}, {"date": "2026-11-23", "spec": "quizzes/quiz_04_vanbasten_ussr_1988.json", "video": "posts/2026-11-23/quiz_04.mp4", "goal": "Marco van Basten right-foot volley from a tight angle on the right, from Arnold Muhren's long cross from the left, 54th minute, UEFA Euro 1988 final, 25 June 1988, Olympiastadion Munich; Netherlands 2-0 USSR (Gullit header first half); keeper Rinat Dasayev", "answer": "ماركو فان باستن", "answer_sources": "UEFA.com ('Ten great EURO moments: Van Basten's volley'), Irish Times ('Euro Moments'), Sky Sports ('1988 Dutch of class'), FourFourTwo", "status": "answered", "media_id": "17914392936478235", "answer_story_media_id": "17908405275349395"}, {"date": "2026-11-25", "spec": "quizzes/quiz_05_madjer_bayern_1987.json", "video": "posts/2026-11-25/quiz_05.mp4", "goal": "Rabah Madjer back-heel equaliser, 77th minute, European Cup final, 27 May 1987, Praterstadion Vienna; Juary broke into the area down the right, his pull-back was deflected, Madjer (back to goal, running to the near post) back-heeled past keeper Jean-Marie Pfaff with a defender on the line; Kogl had put Bayern ahead in the first half, Juary scored the winner ~80'; FC Porto 2-1 Bayern Munich", "answer": "رابح ماجر", "answer_sources": "UEFA.com ('Legendary Moments: Madjer's back-heel', '1986/87: Madjer inspires Porto triumph', 'Juary sends Bayern down'), FIFA (inside.fifa.com 'Mai 1987: Madjer envoie Porto dans la légende'), Champions Journal", "status": "published", "media_id": "18097572107191489"}]
+[
+ {
+  "date": "2026-11-17",
+  "spec": "quizzes/sample_messi_getafe_2007.json",
+  "video": "posts/2026-11-17/quiz_01.mp4",
+  "goal": "Messi solo goal vs Getafe, Copa del Rey semi-final 1st leg, 18 April 2007 (Barcelona won 5-2)",
+  "answer": "ليونيل ميسي",
+  "answer_sources": "FC Barcelona official site, Sports Illustrated, Sky Sports",
+  "status": "answered",
+  "media_id": "18337322356277969",
+  "answer_story_media_id": "18435318037151882"
+ },
+ {
+  "date": "2026-11-19",
+  "spec": "quizzes/quiz_02_owairan_belgium_1994.json",
+  "video": "posts/2026-11-19/quiz_02.mp4",
+  "goal": "Saeed Al-Owairan solo run goal vs Belgium, 1994 World Cup Group F final match, 29 June 1994, RFK Stadium Washington, 5th minute; Saudi Arabia won 1-0 and reached the round of 16 (finished over keeper Michel Preud'homme)",
+  "answer": "سعيد العويران",
+  "answer_sources": "Goal.com (Mark Doyle), Arab News (Ali Khaled), FBref match report 29 June 1994, Khaleej Times",
+  "status": "answered",
+  "media_id": "18083231414723777",
+  "answer_story_media_id": "18100912310475621"
+ },
+ {
+  "date": "2026-11-21",
+  "spec": "quizzes/quiz_03_zidane_leverkusen_2002.json",
+  "video": "posts/2026-11-21/quiz_03.mp4",
+  "goal": "Zinedine Zidane left-foot volley from the edge of the area, Roberto Carlos cross from the left (after Solari pass), on the stroke of half-time (44'), UEFA Champions League final, 15 May 2002, Hampden Park Glasgow; Real Madrid 2-1 Bayer Leverkusen (Raul 9', Lucio 14', Zidane 44')",
+  "answer": "زين الدين زيدان",
+  "answer_sources": "UEFA.com ('Madrid win ninth European crown'), realmadrid.com ('We won La Novena 23 years ago')",
+  "status": "answered",
+  "media_id": "18476591011184961",
+  "answer_story_media_id": "18111469070223447"
+ },
+ {
+  "date": "2026-11-23",
+  "spec": "quizzes/quiz_04_vanbasten_ussr_1988.json",
+  "video": "posts/2026-11-23/quiz_04.mp4",
+  "goal": "Marco van Basten right-foot volley from a tight angle on the right, from Arnold Muhren's long cross from the left, 54th minute, UEFA Euro 1988 final, 25 June 1988, Olympiastadion Munich; Netherlands 2-0 USSR (Gullit header first half); keeper Rinat Dasayev",
+  "answer": "ماركو فان باستن",
+  "answer_sources": "UEFA.com ('Ten great EURO moments: Van Basten's volley'), Irish Times ('Euro Moments'), Sky Sports ('1988 Dutch of class'), FourFourTwo",
+  "status": "answered",
+  "media_id": "17914392936478235",
+  "answer_story_media_id": "17908405275349395"
+ },
+ {
+  "date": "2026-11-25",
+  "spec": "quizzes/quiz_05_madjer_bayern_1987.json",
+  "video": "posts/2026-11-25/quiz_05.mp4",
+  "goal": "Rabah Madjer back-heel equaliser, 77th minute, European Cup final, 27 May 1987, Praterstadion Vienna; Juary broke into the area down the right, his pull-back was deflected, Madjer (back to goal, running to the near post) back-heeled past keeper Jean-Marie Pfaff with a defender on the line; Kogl had put Bayern ahead in the first half, Juary scored the winner ~80'; FC Porto 2-1 Bayern Munich",
+  "answer": "رابح ماجر",
+  "answer_sources": "UEFA.com ('Legendary Moments: Madjer's back-heel', '1986/87: Madjer inspires Porto triumph', 'Juary sends Bayern down'), FIFA (inside.fifa.com 'Mai 1987: Madjer envoie Porto dans la légende'), Champions Journal",
+  "status": "answered",
+  "media_id": "18097572107191489",
+  "answer_story_media_id": "17957610693266197"
+ }
+]
