@@ -1548,5 +1548,21 @@
   "media_id": "17917835514518475",
   "file": "posts/2026-11-26/juve_omonia_live_story.jpg",
   "time": "2026-11-26T23:20+02:00"
+ },
+ {
+  "date": "2026-11-27",
+  "type": "feed",
+  "story": "FT Juventus 4-1 Omonia Nicosia, Europa League MD5, 26 Nov (Satka; Cambiaso 37', Ekhator, Conceicao, Boga) - Football Italia, Fanpage (+ESPN for early minutes)",
+  "media_id": "18117020762125853",
+  "file": "posts/2026-11-27/juve_omonia_ft.jpg",
+  "time": "2026-11-27T00:27+02:00"
+ },
+ {
+  "date": "2026-11-27",
+  "type": "feed",
+  "story": "FT CSKA Sofia 1-2 Trabzonspor, Conference League, 26 Nov (Lopes Cabral OG 1st half - minute 32/33 differs, omitted; Mohamed Salah 69'; Saviolo 90+3'); Trabzonspor 9 pts - Yeni Safak, Haberts (+Turkinform)",
+  "media_id": "18280101598306974",
+  "file": "posts/2026-11-27/trabzon_cska_ft.jpg",
+  "time": "2026-11-27T00:28+02:00"
  }
 ]
