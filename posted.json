@@ -1435,5 +1435,21 @@
   "media_id": "18102960338086907",
   "file": "posts/2026-11-26/el_md5_fixtures_story.jpg",
   "time": "2026-11-26T13:20+02:00"
+ },
+ {
+  "date": "2026-11-26",
+  "type": "story",
+  "story": "Story: today's match Morocco U17 v Spain U17, U-17 World Cup Group H final matchday, Doha, 18:00 Mecca, Arryadia; draw enough for Morocco to reach R32 - Le360, AfricaSoccer",
+  "media_id": "18006585317808977",
+  "file": "posts/2026-11-26/morocco_spain_u17_story.jpg",
+  "time": "2026-11-26T14:25+02:00"
+ },
+ {
+  "date": "2026-11-26",
+  "type": "feed",
+  "story": "Fermin Lopez 2-match domestic ban confirmed, Barca objection rejected (protest at 4th official from bench v Villarreal); misses Deportivo 29 Nov & Atletico 2 Dec - Goal, RotoWire (+YSScores, Dimsum Daily)",
+  "media_id": "18124209122056854",
+  "file": "posts/2026-11-26/fermin_ban.jpg",
+  "time": "2026-11-26T14:25+02:00"
  }
 ]
