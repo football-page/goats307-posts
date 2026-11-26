@@ -1516,5 +1516,21 @@
   "media_id": "18137551000839105",
   "file": "posts/2026-11-26/spl_md13_thu_results_story.jpg",
   "time": "2026-11-26T21:25+02:00"
+ },
+ {
+  "date": "2026-11-26",
+  "type": "story",
+  "story": "Story-only FT: Viktoria Plzen 4-0 Benfica, Europa League MD5, 26 Nov (Hrosovsky, Prince Adu, Kabongo brace; minutes omitted - sources differ) - Goal, RPP (+VAVEL, CNN Portugal)",
+  "media_id": "17938998714408580",
+  "file": "posts/2026-11-26/plzen_benfica_story.jpg",
+  "time": "2026-11-26T22:25+02:00"
+ },
+ {
+  "date": "2026-11-26",
+  "type": "feed",
+  "story": "FT Olympiacos 2-4 AC Milan, Europa League MD5, 26 Nov (Maignan OG 31', Jota Silva 49'; Hutchinson 56', Cisse 63', Pulisic 71', Moreira 90+5') - Goal, FootItalia (+Football Italia). From retry queue.",
+  "media_id": "18401978134207501",
+  "file": "posts/2026-11-26/olympiacos_milan_ft.jpg",
+  "time": "2026-11-26T22:26+02:00"
  }
 ]
