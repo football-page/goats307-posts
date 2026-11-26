@@ -1,1 +1,9 @@
-[]
+[
+ {
+  "date": "2026-11-26",
+  "item": "Quiz #5 answer Story (Rabah Madjer) - card rendered at posts/2026-11-26/quiz_05_answer_story.jpg",
+  "kind": "news",
+  "reason": "create_story returned 'media not found' error at 12:20; retry was blocked in this run. Check the page's stories first to avoid a duplicate, then publish in the next run.",
+  "added_at": "2026-11-26T12:22+02:00"
+ }
+]
