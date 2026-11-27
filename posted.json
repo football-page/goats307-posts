@@ -1647,5 +1647,14 @@
   "type": "story",
   "story": "Story: tomorrow's match card Real Madrid v Alaves, LaLiga MD14, Sat 28 Nov 23:00 Mecca (21:00 CET), Bernabeu; RM 2nd 33 pts behind Barca 36 - realmadrid.com, GidStats (retry-queue item resolved)",
   "media_id": "17960409204298826"
+ },
+ {
+  "date": "2026-11-27",
+  "type": "reel",
+  "creative": "quiz",
+  "story": "Creative Reel quiz #6 'who scored this goal?' - Salem Al-Dawsari v Argentina, World Cup 2022 (answer Story due 28 Nov) - Sky Sports, The National",
+  "media_id": "17946162393101151",
+  "file": "posts/2026-11-27/quiz_06.mp4",
+  "time": "2026-11-27T20:25+02:00"
  }
 ]
