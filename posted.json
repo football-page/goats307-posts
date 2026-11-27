@@ -1680,5 +1680,17 @@
   "type": "feed",
   "story": "FT Al-Ittihad 1-0 NEOM, SPL MD13, Fri 27 Nov: En-Nesyri header from Aouar cross ~last 15 min (minute 75/77 differs, omitted); Ittihad 4th 27 pts, NEOM 6th 22 - Asharq Sports, Dora (+Al Mashhad)",
   "media_id": "18078020921786950"
+ },
+ {
+  "date": "2026-11-27",
+  "type": "story",
+  "story": "Story-only: FT Al Kholood 2-1 Al Khaleej, SPL MD13, 27 Nov (King 7' pen; Coba da Costa 36', Domingues 58'); Kholood 15 pts - Sabq, Ajel (+ESPN)",
+  "media_id": "17995135898860203"
+ },
+ {
+  "date": "2026-11-27",
+  "type": "feed",
+  "story": "FT Al Qadsiah 2-0 Al Fayha, SPL MD13, 27 Nov (Turki Al-Ammar 71', Abu Al-Shamat 88'); Qadsiah top provisionally 31 pts, Hilal 1 pt behind, plays Ettifaq Sat - Sabq, Ajel (+Arab News)",
+  "media_id": "18137611195773470"
  }
 ]
