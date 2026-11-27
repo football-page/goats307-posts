@@ -1692,5 +1692,21 @@
   "type": "feed",
   "story": "FT Al Qadsiah 2-0 Al Fayha, SPL MD13, 27 Nov (Turki Al-Ammar 71', Abu Al-Shamat 88'); Qadsiah top provisionally 31 pts, Hilal 1 pt behind, plays Ettifaq Sat - Sabq, Ajel (+Arab News)",
   "media_id": "18137611195773470"
+ },
+ {
+  "date": "2026-11-28",
+  "type": "story",
+  "story": "Story-only FT: Levante 1-3 Racing Santander, LaLiga MD14 opener, Fri 27 Nov (scorers omitted - not confirmed) - ESPN, VAVEL",
+  "media_id": "18090033434309361",
+  "file": "posts/2026-11-28/levante_racing_story.jpg",
+  "time": "2026-11-28T00:30+02:00"
+ },
+ {
+  "date": "2026-11-28",
+  "type": "feed",
+  "story": "FT Nottingham Forest 3-2 Chelsea, PL, 27 Nov (Igor Jesus 5', Gibbs-White 51' pen & 73'; Emegha 54', 89'); Forest 12 pts - 101 Great Goals, KoraPlus (+YSScores, Novasports). From retry queue.",
+  "media_id": "18126080629940829",
+  "file": "posts/2026-11-28/forest_chelsea_ft.jpg",
+  "time": "2026-11-28T00:31+02:00"
  }
 ]
