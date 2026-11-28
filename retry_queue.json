@@ -3,7 +3,14 @@
   "date": "2026-11-28",
   "item": "Barca final training Sat 28 Nov before Deportivo: Christensen & Rodri back, Balde & Bernal absent, Orian Goren (17) called up",
   "kind": "news",
-  "reason": "Only Barca Universal (Yahoo syndicates it) readable; Tribuna/LiveScore fetch failed - wait for official squad list; 15:00 run: official Deportivo squad list not yet published, still waiting",
+  "reason": "Only Barca Universal (Yahoo syndicates it) readable; Tribuna/LiveScore fetch failed - wait for official squad list; 15:00 run: official Deportivo squad list not yet published, still waiting; 16:00 run: no official squad list found yet, still waiting",
   "added_at": "2026-11-28T14:15+02:00"
+ },
+ {
+  "date": "2026-11-28",
+  "item": "FT Al Hazem v Al Nassr, SPL MD13 (Nassr 1-0 up via Samu Costa 26' at HT/70')",
+  "kind": "result",
+  "reason": "16:00 run: match just ending, no source yet reports full time (FotMob ~70', ElBalad/365Scores HT) - post as FT result/reel once 2 sources confirm",
+  "added_at": "2026-11-28T16:15+02:00"
  }
 ]
